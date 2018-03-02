@@ -10,6 +10,7 @@ To install and save in your `package.json` dependencies, run:
 npm install --save material-ui@next
 ```
 
+updated.
 ## Roboto Font
 
 Material-UI was designed with the [Roboto](http://www.google.com/fonts/specimen/Roboto)
@@ -31,5 +32,5 @@ you must first install the [material-ui-icons](https://www.npmjs.org/package/mat
 npm install --save material-ui-icons
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMzU5NzIwM119
+eyJoaXN0b3J5IjpbMzMzNTU1ODgwXX0=
 -->
