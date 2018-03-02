@@ -30,3 +30,6 @@ you must first install the [material-ui-icons](https://www.npmjs.org/package/mat
 ```
 npm install --save material-ui-icons
 ```
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTgwMzU5NzIwM119
+-->
