@@ -32,5 +32,5 @@ you must first install the [material-ui-icons](https://www.npmjs.org/package/mat
 npm install --save material-ui-icons
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMzNTU1ODgwXX0=
+eyJoaXN0b3J5IjpbLTI3MjMyNTMzMiwzMzM1NTU4ODBdfQ==
 -->
