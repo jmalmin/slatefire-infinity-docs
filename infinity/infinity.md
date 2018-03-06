@@ -2,9 +2,9 @@
 
  
 
-## npm
+## Install prerequisits
 
-To install and save in your `package.json` dependencies, run:
+Change a server’s hostname and setup network configuration – Centos**
 
 ```
 npm install --save material-ui@next
@@ -32,5 +32,5 @@ you must first install the [material-ui-icons](https://www.npmjs.org/package/mat
 npm install --save material-ui-icons
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTc1MTcyMF19
+eyJoaXN0b3J5IjpbMjA4MDIzMjQ2NF19
 -->
