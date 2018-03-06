@@ -1,6 +1,6 @@
 # Infinity2
 
- 
+ ![enter image description here](https://static.wixstatic.com/media/bb7470_83527115d83c4ebca07976d2505440ba~mv2.png/v1/fill/w_66,h_50,al_c,usm_0.66_1.00_0.01/bb7470_83527115d83c4ebca07976d2505440ba~mv2.png)
 
 ## Install prerequisits
 
@@ -32,5 +32,5 @@ you must first install the [material-ui-icons](https://www.npmjs.org/package/mat
 npm install --save material-ui-icons
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwNjk4MjMyXX0=
+eyJoaXN0b3J5IjpbODkyNjI0OTQ4XX0=
 -->
