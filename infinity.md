@@ -10,6 +10,9 @@ Stake holders get feedback faster from the end users and can monitor processes o
 
 Use INFINITY until deployment becomes an integral part of the business process and competitiveness of your enterprise.
 
+
+
+
 ## Install prerequisites
 
 Change a server’s hostname and setup network configuration – Centos
@@ -40,5 +43,5 @@ you must first install the [material-ui-icons](https://www.npmjs.org/package/mat
 npm install --save material-ui-icons
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODQyMjk2MiwtMzA5NjcxMjE2XX0=
+eyJoaXN0b3J5IjpbMTQzNDg1MDkwNCwtMzA5NjcxMjE2XX0=
 -->
