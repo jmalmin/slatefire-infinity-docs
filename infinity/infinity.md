@@ -1,6 +1,6 @@
 # Infinity
 
-Stuff and things
+ 
 
 ## npm
 
@@ -32,5 +32,5 @@ you must first install the [material-ui-icons](https://www.npmjs.org/package/mat
 npm install --save material-ui-icons
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MjMyNTMzMiwzMzM1NTU4ODBdfQ==
+eyJoaXN0b3J5IjpbMTY1MTc1MTcyMF19
 -->
