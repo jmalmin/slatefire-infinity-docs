@@ -1,10 +1,10 @@
-# Infinity
+# Infinity2
 
  
 
 ## Install prerequisits
 
-Change a server’s hostname and setup network configuration – Centos**
+Change a server’s hostname and setup network configuration – Centos
 
 ```
 npm install --save material-ui@next
@@ -32,5 +32,5 @@ you must first install the [material-ui-icons](https://www.npmjs.org/package/mat
 npm install --save material-ui-icons
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MDIzMjQ2NF19
+eyJoaXN0b3J5IjpbNjkwNjk4MjMyXX0=
 -->
