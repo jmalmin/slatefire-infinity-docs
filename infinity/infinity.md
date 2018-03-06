@@ -11,7 +11,7 @@ Stake holders get feedback faster from the end users and can monitor processes o
 Use INFINITY until deployment becomes an integral part of the business process and competitiveness of your enterprise.
 
 
-|  Boo|Hoo  | 
+|  Boo|Hoo  | |
 |--|--|
 |  |  |
 
@@ -46,5 +46,5 @@ you must first install the [material-ui-icons](https://www.npmjs.org/package/mat
 npm install --save material-ui-icons
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMzU3ODQwLDIzNTUwMzk5Nl19
+eyJoaXN0b3J5IjpbMTA2MjI3NjU0OCwyMzU1MDM5OTZdfQ==
 -->
