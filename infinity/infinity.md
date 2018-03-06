@@ -12,8 +12,11 @@ Use INFINITY until deployment becomes an integral part of the business process a
 
 
 |  Boo|Hoo  | |
-|--|--|
-|  |  |
+|--|--|--|
+|  |  |  |
+
+
+
 
 
 ## Install prerequisites
@@ -46,5 +49,5 @@ you must first install the [material-ui-icons](https://www.npmjs.org/package/mat
 npm install --save material-ui-icons
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MjI3NjU0OCwyMzU1MDM5OTZdfQ==
+eyJoaXN0b3J5IjpbMTIwMTc2MDUyMiwyMzU1MDM5OTZdfQ==
 -->
