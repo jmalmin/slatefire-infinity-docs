@@ -1,6 +1,6 @@
 # Welcome to StackEdit!
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. If you have finished with me, you can just create new files by opening the **file explorer** on the left corner of the navigation bar. Updated.
+Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. If you have finished with me, you can just create new files by opening the **file explorer** on the left corner of the navigation bar.
 
 
 # Files
@@ -12,6 +12,16 @@ StackEdit stores your files in your browser, which means all your files are auto
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 
 ## Switch to another file
+
+
+----------
+
+
+----------
+
+
+----------
+
 
 All your files are listed in the file explorer. You can switch from one to another by clicking a file in the list.
 
@@ -142,5 +152,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2MzMyOTFdfQ==
+eyJoaXN0b3J5IjpbLTE0MTE2MzU3NTNdfQ==
 -->
