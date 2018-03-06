@@ -1,6 +1,6 @@
 # Infinity
 
-Material-UI is available as an [npm package](https://www.npmjs.org/package/material-ui).
+Stuff and things
 
 ## npm
 
