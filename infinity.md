@@ -2,7 +2,7 @@
 
  ![enter image description here](https://static.wixstatic.com/media/bb7470_83527115d83c4ebca07976d2505440ba~mv2.png/v1/fill/w_66,h_50,al_c,usm_0.66_1.00_0.01/bb7470_83527115d83c4ebca07976d2505440ba~mv2.png)
 
-## Install prerequisits
+## Install prerequisites
 
 Change a server’s hostname and setup network configuration – Centos
 
@@ -32,5 +32,5 @@ you must first install the [material-ui-icons](https://www.npmjs.org/package/mat
 npm install --save material-ui-icons
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyNjI0OTQ4LC0zMDk2NzEyMTZdfQ==
+eyJoaXN0b3J5IjpbLTM5OTY0MzMwNSwtMzA5NjcxMjE2XX0=
 -->
