@@ -1,7 +1,7 @@
  # Installs
 **master installs**
 
-The Master server will need basic software installed to allow it to be able to communicate to all node servers. For the most part these installations will be completed as a sudo user and will not include any changes to 
+The Master server will need basic software installed to allow it to be able to communicate to all node servers. For the most part these installations will be completed as a sudo user and will not make any changes to existing programs on the Centos or Window systems.
 
  1. Install expect for Centos 7 as sudo user.
  
@@ -28,5 +28,5 @@ Or you can compile it from source with these steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODAwMjYyNzNdfQ==
+eyJoaXN0b3J5IjpbLTE1NDczODE2MTZdfQ==
 -->
