@@ -10,6 +10,7 @@
 
 Or you can compile it from source with these steps:
 1) Download the ecpect package from the below link
+
 	[http://sourceforge.net/projects/expect/](http://sourceforge.net/projects/expect/)
 2) Install the required dependecy packages "Tcl/Tk" language toolkit
 
@@ -26,5 +27,5 @@ Or you can compile it from source with these steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDc3ODI1MV19
+eyJoaXN0b3J5IjpbLTE1Mzk1NzM2NjFdfQ==
 -->
