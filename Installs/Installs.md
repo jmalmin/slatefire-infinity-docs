@@ -7,6 +7,7 @@ The Master server will need basic software installed to allow it to be able to c
 > **Infinity will run on Windows or Linux systems. Oracle, DB2 and MSSQL databases are supported.**
 
 
+----------
 
 
 **Steps for installs:**
@@ -35,5 +36,5 @@ Or you can compile it from source with these steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMTQ3NDE5MV19
+eyJoaXN0b3J5IjpbLTE2MTYzNjU2MzFdfQ==
 -->
