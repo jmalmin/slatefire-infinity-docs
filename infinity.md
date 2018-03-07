@@ -10,13 +10,26 @@ Stake holders get feedback faster from the end users and can monitor processes o
 
 Use INFINITY until deployment becomes an integral part of the business process and competitiveness of your enterprise.
 
+```
+<script src="mermaidAPI.js"></script>
 
-|  Boo|Hoo  | |
-|--|--|--|
-|  |  |  |
+<script>
+    mermaidAPI.initialize({
+        startOnLoad:false
+    });
+    $(function(){
+        // Example of using the API
+        var element = document.querySelector("#graphDiv");
 
+        var insertSvg = function(svgCode, bindFunctions){
+            element.innerHTML = svgCode;
+        };
 
-
+        var graphDefinition = 'graph TB\na-->b';
+        var graph = mermaidAPI.render('graphDiv', graphDefinition, insertSvg);
+    });
+</script>
+```
 
 
 ## Install prerequisites
@@ -49,5 +62,5 @@ you must first install the [material-ui-icons](https://www.npmjs.org/package/mat
 npm install --save material-ui-icons
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMTc2MDUyMiwtMzA5NjcxMjE2XX0=
+eyJoaXN0b3J5IjpbOTMwMzc4MTM2LC0zMDk2NzEyMTZdfQ==
 -->
