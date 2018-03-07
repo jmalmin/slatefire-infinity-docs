@@ -3,7 +3,7 @@
 
 The Master server will need basic software installed to allow it to be able to communicate to all node servers. For the most part these installations will be completed as a sudo user and will not make any changes to existing programs on the Centos or Window systems.
 
-note:
+**note:**
 > **Infinity will run on Windows or Linux systems. Oracle, DB2 and MSSQL databases are supported.**
 
 
@@ -32,5 +32,5 @@ Or you can compile it from source with these steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTA1ODE0NjldfQ==
+eyJoaXN0b3J5IjpbLTE5ODYyODQzODFdfQ==
 -->
