@@ -62,5 +62,6 @@ you must first install the [material-ui-icons](https://www.npmjs.org/package/mat
 npm install --save material-ui-icons
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMwMzc4MTM2LDIzNTUwMzk5Nl19
+eyJoaXN0b3J5IjpbLTE5MzY2ODc5ODcsOTMwMzc4MTM2LDIzNT
+UwMzk5Nl19
 -->
