@@ -4,7 +4,7 @@
  1. Install expect for Centos 7 as sudo user.
  
      
-			 # sudo yum install expect
+		# sudo yum install expect
 
      
 
@@ -26,5 +26,5 @@ Or you can compile it from source with these steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3Njg0MTQxM119
+eyJoaXN0b3J5IjpbLTMyNDc3ODI1MV19
 -->
