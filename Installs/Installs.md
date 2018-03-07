@@ -7,7 +7,6 @@
 		# sudo yum install expect
 
      
-
 Or you can compile it from source with these steps:
 1) Download the ecpect package from the below link
 
@@ -27,5 +26,5 @@ Or you can compile it from source with these steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzk1NzM2NjFdfQ==
+eyJoaXN0b3J5IjpbMTkwNzAwODQwMV19
 -->
