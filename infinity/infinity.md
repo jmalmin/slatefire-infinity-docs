@@ -1,4 +1,4 @@
-# Infinity2
+## Heading# Infinity2
 
  ![enter image description here](https://static.wixstatic.com/media/bb7470_83527115d83c4ebca07976d2505440ba~mv2.png/v1/fill/w_66,h_50,al_c,usm_0.66_1.00_0.01/bb7470_83527115d83c4ebca07976d2505440ba~mv2.png)
 INFINITY connects DevOps methodology to Tririga. Organizations can build more agile teams and smarter systems using continuous delivery, continuous integration and rapid development processes.
@@ -35,7 +35,11 @@ Use INFINITY until deployment becomes an integral part of the business process a
 
 ## Install prerequisites
 
-Change a server’s hostname and setup network configuration – Centos
+Change a server’s hostname and setup network configuration – CentosMaterial-UI is available as an [npm package](https://www.npmjs.org/package/material-ui).
+
+## npm
+
+To install and save in your `package.json` dependencies, run:
 
 ```
 npm install --save material-ui@next
@@ -63,6 +67,6 @@ you must first install the [material-ui-icons](https://www.npmjs.org/package/mat
 npm install --save material-ui-icons
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzNjE0NTkzLDE5Nzc4MDIxNjYsMjM1NT
+eyJoaXN0b3J5IjpbLTE3NjYxODgyLDE5Nzc4MDIxNjYsMjM1NT
 AzOTk2XX0=
 -->
