@@ -1,7 +1,9 @@
  # Installs
 **master**
-Install expect for Centos 7 as sudo user.
-    sudo yum install expect
+Install expect for Centos 7 as sudo user. 
+
+     # sudo yum install expect
+
 1) Download the ecpect package from the below link
 	[http://sourceforge.net/projects/expect/](http://sourceforge.net/projects/expect/)
 2) Install the required dependecy packages "Tcl/Tk" language toolkit
@@ -19,5 +21,5 @@ Install expect for Centos 7 as sudo user.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc4NTI1MDQ2XX0=
+eyJoaXN0b3J5IjpbMTI4NDkzMzU2OV19
 -->
