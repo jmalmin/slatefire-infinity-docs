@@ -10,17 +10,17 @@ Or you can compile it from source with these steps:
 2) Install the required dependecy packages "Tcl/Tk" language toolkit
 
 
-            # yum install tcl
+       # yum install tcl
 
 3) Install the "expect" package using the below commands
   
 
-            # tar -zxvf expectx.xx.tar.gz
-            # ./configure
-            # make
-            # make install
+       # tar -zxvf expectx.xx.tar.gz
+       # ./configure
+       # make
+       # make install
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NjAxNDgyNl19
+eyJoaXN0b3J5IjpbLTEwMjUzNjU4MzJdfQ==
 -->
