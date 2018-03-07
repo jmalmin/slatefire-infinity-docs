@@ -14,7 +14,7 @@ The Master server will need software installed to support the ability for it to 
  1. Install expect for Centos 7 as sudo user.
  
      
-		# sudo yum install expect
+		# sudo yum -y  install expect
 
      
 Or you can compile it from source with these steps:
@@ -37,5 +37,5 @@ Or you can compile it from source with these steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA4Mjc1NDU4XX0=
+eyJoaXN0b3J5IjpbMTAxNTY5MDAwNl19
 -->
