@@ -167,7 +167,9 @@ Or you can compile it from source with these steps:
 [https://slatefirecom.sharepoint.com/:u:/s/SlateFire/EXmVae2wtuVEneRrsqmeFjcB4XQB5az8cyDOcJM0h6qZQQ?e=mevJHL](https://slatefirecom.sharepoint.com/:u:/s/SlateFire/EXmVae2wtuVEneRrsqmeFjcB4XQB5az8cyDOcJM0h6qZQQ?e=mevJHL)
 
 
-Update 
+Update project nodes
+cd ~/apps/rundeck/projects/<Your Project Name>/etc
+
 
 **Basic install is complete at this point for master server.**
 
@@ -177,5 +179,5 @@ Update
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMTQyMTI5MV19
+eyJoaXN0b3J5IjpbLTkxMjA5NzY2MF19
 -->
