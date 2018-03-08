@@ -104,8 +104,13 @@ Or you can compile it from source with these steps:
 
 		start_stop_rundeck.sh
 		vi start_stop_runeck.sh
+		#modify PORT=5550
+		PORT=4440 
+		# save file 
+		Esc
+		wq
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjk4MDg3OF19
+eyJoaXN0b3J5IjpbLTEwNTU4NTU0NTddfQ==
 -->
