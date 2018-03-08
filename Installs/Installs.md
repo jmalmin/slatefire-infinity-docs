@@ -27,7 +27,7 @@ The Master server will need software installed to support the ability for it to 
  1. setup ssh key on master server.
 
 
-		#cd ~
+		cd ~
 		mkdir .ssh
 		cd .ssh
 		#execute this command and don’t make a passphrase.
@@ -47,6 +47,9 @@ The Master server will need software installed to support the ability for it to 
 		sudo yum -y  install expect
 
      
+
+ 1. List item
+
 Or you can compile it from source with these steps:
 
 1) Download the expect package from the below link.
@@ -345,5 +348,5 @@ This directory is typically called rundeck_src. or <env name> in example below.
 	-rwxrwxr-x. 1 root root 7136049 Jun 9 17:47 geckodriver
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjg3MDEzNF19
+eyJoaXN0b3J5IjpbMTgyODgyNzQ4OV19
 -->
