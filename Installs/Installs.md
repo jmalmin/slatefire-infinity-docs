@@ -63,7 +63,7 @@ Or you can compile it from source with these steps:
        make
        make install
        
-**Rundeck transfer to master server**
+**Rundeck licensed transfer to master server**
 
  1. Place rundeck_licensed.tar in the following folder.
 
@@ -95,7 +95,7 @@ Or you can compile it from source with these steps:
 		PORT=5550
 		PORT=4440 
 
-**JAVA**
+**Java**
 
  1. Setup Java
 
@@ -169,5 +169,5 @@ Or you can compile it from source with these steps:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzQyNDI3MjJdfQ==
+eyJoaXN0b3J5IjpbMzU5MzM4MTk3XX0=
 -->
