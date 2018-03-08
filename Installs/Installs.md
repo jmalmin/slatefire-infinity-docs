@@ -74,13 +74,15 @@ Or you can compile it from source with these steps:
 		total 340104
 		drwxrwxr-x.  3 username username        72 Mar  7 20:51 .
 		drwx------. 23 username username      4096 Mar  7 20:34 ..
-		-rwxr-xr-x.  1 username username      1140 Feb 28 15:22 find_replace.sh
 		drwxrwxr-x.  8 username username       149 Mar  7 20:34 rundeck
 		-rw-rw-r--.  1 username username 348256681 Feb 28 16:01 rundeck_licensed.tar
+		tar-xvf rundeck_licensed.tar
 
 
  2.  Rundeck port can be configured in the following file:
-  ` vi ~/apps/start_stop_rundeck.sh`
+  `cd ~/apps/rundeck
+   
+  vi ~/apps/start_stop_rundeck.sh`
   
 
  3. Modify port.
@@ -159,5 +161,5 @@ Or you can compile it from source with these steps:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyNjczNjg0XX0=
+eyJoaXN0b3J5IjpbMzMzOTgzNTYzXX0=
 -->
