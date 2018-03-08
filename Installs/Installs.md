@@ -139,7 +139,7 @@ Or you can compile it from source with these steps:
 
 	
 
- 3. open port for rundeck and make it permanent as root home
+ 3. open port for rundeck and make it permanent as root home.
 
 	
 		sudo su
@@ -221,5 +221,5 @@ Or you can compile it from source with these steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDE4MjgxNDBdfQ==
+eyJoaXN0b3J5IjpbLTE4Mjk1ODk0NzJdfQ==
 -->
