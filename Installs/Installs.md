@@ -67,23 +67,23 @@ Or you can compile it from source with these steps:
 
  1. Place rundeck_licensed.tar in the following folder.
 
-		scp rundeck_licensed.tar username@lxcentosmaster:~/repo
-		cd ~/repo
-		cp rundeck_licensed.tar ~/apps
-		cd ~/apps
+		#scp rundeck_licensed.tar username@lxcentosmaster:~/repo
+		#cd ~/repo
+		#cp rundeck_licensed.tar ~/apps
+		#cd ~/apps
 		[username@lxcentosmaster apps]$ ls -al
 		total 340104
 		drwxrwxr-x.  3 username username        72 Mar  7 20:51 .
 		drwx------. 23 username username      4096 Mar  7 20:34 ..
 		drwxrwxr-x.  8 username username       149 Mar  7 20:34 rundeck
 		-rw-rw-r--.  1 username username 348256681 Feb 28 16:01 rundeck_licensed.tar
-		tar-xvf rundeck_licensed.tar
+		#tar-xvf rundeck_licensed.tar
 
 
  2.  Rundeck port can be configured in the following file:
 
-		  cd ~/apps/rundeck
-		  vi ~/apps/start_stop_rundeck.sh
+		 #cd ~/apps/rundeck
+		  #vi ~/apps/start_stop_rundeck.sh
 
   
 
@@ -101,15 +101,15 @@ Or you can compile it from source with these steps:
 
     	# add jdk for rundeck
 
-		scp jdk-XXX <username>@<master.server>:~
+		#scp jdk-XXX <username>@<master.server>:~
 
 		# untar and create symbolic link in home directory
 
-		tar -xvzf jdk-8u151-linux-x64.tar.gz
+		#tar -xvzf jdk-8u151-linux-x64.tar.gz
 
-		cd ~
+		#cd ~
 
-		ln -s jdk1.XXX/ java
+		#ln -s jdk1.XXX/ java
 
 		# update ~/.bash_profile
 
@@ -125,12 +125,11 @@ Or you can compile it from source with these steps:
 		start_stop_rundeck.sh
 
 	
-		vi start_stop_runeck.sh
+		#vi start_stop_runeck.sh
 		#modify PORT=5550
 		PORT=4440 
 		# save file 
-		Esc
-		wq
+
 	
 
  1. open port for rundeck and make it permanent as root home
@@ -163,5 +162,5 @@ Or you can compile it from source with these steps:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MDcwMTMxOF19
+eyJoaXN0b3J5IjpbLTU3Mjc1MDE3OV19
 -->
