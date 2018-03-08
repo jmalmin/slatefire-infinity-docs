@@ -100,9 +100,12 @@ Or you can compile it from source with these steps:
 		[root@masterserver]# firewall-cmd --reload
 		success`
 
- 2. Poor can be configured in the following file:
+ 2. Rundeck port can be configured in the following file:
+ 3. start_stop_rundeck.sh
 
 		start_stop_rundeck.sh
+
+	
 		vi start_stop_runeck.sh
 		#modify PORT=5550
 		PORT=4440 
@@ -112,5 +115,5 @@ Or you can compile it from source with these steps:
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTU4NTU0NTddfQ==
+eyJoaXN0b3J5IjpbNTk0NzAxMDcwXX0=
 -->
