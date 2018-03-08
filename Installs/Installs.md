@@ -83,7 +83,7 @@ Or you can compile it from source with these steps:
  2.  Rundeck port can be configured in the following file:
 
 		 cd ~/apps/rundeck
-		  vi ~/apps/start_stop_rundeck.sh
+		 vi ~/apps/start_stop_rundeck.sh
 
   
 
@@ -101,17 +101,17 @@ Or you can compile it from source with these steps:
 
     	# add jdk for rundeck
 
-		#scp jdk-XXX <username>@<master.server>:~
+		scp jdk-XXX <username>@<master.server>:~
 
 		# untar and create symbolic link in home directory
 
-		#tar -xvzf jdk-8u151-linux-x64.tar.gz
+		tar -xvzf jdk-8u151-linux-x64.tar.gz
 
-		#cd ~
+		cd ~
 
-		#ln -s jdk1.XXX/ java
+		ln -s jdk1.XXX/ java
 
-		# update ~/.bash_profile
+		update ~/.bash_profile
 
 		export JAVA_HOME=~/java
 		export PATH=$JAVA_HOME/bin:$PATH
@@ -125,7 +125,7 @@ Or you can compile it from source with these steps:
 		start_stop_rundeck.sh
 
 	
-		#vi start_stop_runeck.sh
+		vi start_stop_runeck.sh
 		#modify PORT=5550
 		PORT=4440 
 		# save file 
@@ -162,5 +162,5 @@ Or you can compile it from source with these steps:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MTUyNDIzNV19
+eyJoaXN0b3J5IjpbMzk1NjUyNjIzXX0=
 -->
