@@ -216,11 +216,14 @@ Or you can compile it from source with these steps:
 
 ----------
 
+**Python 3.5.2 install**
 
+ 1. Move to the rpm folder inside repo.
+ 2. `enter code here`
 
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwNDE4NDJdfQ==
+eyJoaXN0b3J5IjpbLTkyNzIxMDEzNV19
 -->
