@@ -241,7 +241,7 @@ Or you can compile it from source with these steps:
 
 **Pip 3.5 install**
 
- 4. Navigate to pip repo folder
+ 4. Navigate to pip repo folder. ***Older version of Centos***
  
 
 		cd ~/apps/rundeck_repo/linux/pip
@@ -251,7 +251,7 @@ Or you can compile it from source with these steps:
 		yum -y install python35u-pip-9.0.1-1.ius.centos7.noarch.rpm python35u-devel-3.5.4-1.ius.centos7.x86_64.rpm
 	
 
-2. Centos 7 install
+2. **Centos 7** install
 
 	   cd ~/repo/rundeck_repo/linux/pip
 	   yum -y install python35u-pip-9.0.1-1.ius.centos7.noarch.rpm
@@ -260,5 +260,5 @@ Or you can compile it from source with these steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDAxMzE4OF19
+eyJoaXN0b3J5IjpbMjAzOTQ3NzMwN119
 -->
