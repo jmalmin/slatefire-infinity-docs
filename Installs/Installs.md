@@ -80,8 +80,16 @@ Or you can compile it from source with these steps:
 
 **Rundeck**
 
- 1. open port for rundeck and make it permanent as root home direc�h�\\5?
+ 1. open port for rundeck and make it permanent as root home
+
+	
+		sudo su
+		<provide password>
+		\[root@lxcentos10 logs\]# firewall-cmd --zone=public --add-port=5550/tcp --permanent
+		success
+		\[root@lxcentos10 logs\]# firewall-cmd --reload
+		success`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MjkwNTgyMV19
+eyJoaXN0b3J5IjpbMTE2NzkwMDI5XX0=
 -->
