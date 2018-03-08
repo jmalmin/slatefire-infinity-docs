@@ -27,12 +27,12 @@ The Master server will need software installed to support the ability for it to 
 
 
 		#cd ~
-		#mkdir .ssh
-		#cd .ssh
+		mkdir .ssh
+		cd .ssh
 		#execute this command and don’t make a passphrase.
-		#ssh-keygen -t rsa
-		#cd ~
-		#chmod -R 700 .ssh
+		ssh-keygen -t rsa
+		cd ~
+		chmod -R 700 .ssh
 
 		
 
@@ -42,7 +42,7 @@ The Master server will need software installed to support the ability for it to 
  3. Install expect for Centos 7 as sudo user.
  
      
-		# sudo yum -y  install expect
+		sudo yum -y  install expect
 
      
 Or you can compile it from source with these steps:
@@ -53,36 +53,36 @@ Or you can compile it from source with these steps:
 2) Install the required dependecy packages "Tcl/Tk" language toolkit
 
 
-       # yum install tcl
+       yum install tcl
 
 3) Install the "expect" package using the below commands
   
 
-       # tar -zxvf expectx.xx.tar.gz
-       # ./configure
-       # make
-       # make install
+       tar -zxvf expectx.xx.tar.gz
+       ./configure
+       make
+       make install
        
 **Rundeck transfer to master server**
 
  1. Place rundeck_licensed.tar in the following folder.
 
-		#scp rundeck_licensed.tar username@lxcentosmaster:~/repo
-		#cd ~/repo
-		#cp rundeck_licensed.tar ~/apps
-		#cd ~/apps
+		scp rundeck_licensed.tar username@lxcentosmaster:~/repo
+		cd ~/repo
+		cp rundeck_licensed.tar ~/apps
+		cd ~/apps
 		[username@lxcentosmaster apps]$ ls -al
 		total 340104
 		drwxrwxr-x.  3 username username        72 Mar  7 20:51 .
 		drwx------. 23 username username      4096 Mar  7 20:34 ..
 		drwxrwxr-x.  8 username username       149 Mar  7 20:34 rundeck
 		-rw-rw-r--.  1 username username 348256681 Feb 28 16:01 rundeck_licensed.tar
-		#tar-xvf rundeck_licensed.tar
+		tar-xvf rundeck_licensed.tar
 
 
  2.  Rundeck port can be configured in the following file:
 
-		 #cd ~/apps/rundeck
+		 cd ~/apps/rundeck
 		  #vi ~/apps/start_stop_rundeck.sh
 
   
@@ -162,5 +162,5 @@ Or you can compile it from source with these steps:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3Mjc1MDE3OV19
+eyJoaXN0b3J5IjpbODYxMzE0ODUyXX0=
 -->
