@@ -17,7 +17,6 @@ The Master server will need software installed to support the ability for it to 
  1. Master server will need folders setup for applications and local repository.
  2. Folder - apps repo and installs will be created manually.
 
-
 		cd ~
 		mkdir apps repo installs
  
@@ -82,12 +81,24 @@ Or you can compile it from source with these steps:
 		# update ~/.bash_profile
 
 		export JAVA_HOME=~/java
-
 		export PATH=$JAVA_HOME/bin:$PATH
-
 		export PATH
 
 **Rundeck**
+
+ 2. Rundeck port can be configured in the following file:
+ 3. start_stop_rundeck.sh
+
+		start_stop_rundeck.sh
+
+	
+		vi start_stop_runeck.sh
+		#modify PORT=5550
+		PORT=4440 
+		# save file 
+		Esc
+		wq
+	
 
  1. open port for rundeck and make it permanent as root home
 
@@ -119,5 +130,5 @@ Or you can compile it from source with these steps:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODU0MDMzNV19
+eyJoaXN0b3J5IjpbLTM1OTE1NzM0Ml19
 -->
