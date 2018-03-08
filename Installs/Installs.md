@@ -161,7 +161,7 @@ Or you can compile it from source with these steps:
 **Import jobs to rundeck**
 
  - Please find the latest version of Demo jobs for rundeck in the URL
-    provided here. You will import it per the 'Import and archive' instructions below.		
+    provided here. You will import it per the '***Import and archive***' instructions below.		
 		[https://slatefirecom.sharepoint.com/:u:/s/SlateFire/EXmVae2wtuVEneRrsqmeFjcB4XQB5az8cyDOcJM0h6qZQQ?e=XXXX](https://slatefirecom.sharepoint.com/:u:/s/SlateFire/EXmVae2wtuVEneRrsqmeFjcB4XQB5az8cyDOcJM0h6qZQQ?e=XXXX)
 
 
@@ -179,7 +179,6 @@ Or you can compile it from source with these steps:
  - Choose the rundeck archive file to import (should end with ".rdproject.jar").
  - Click "Import".
  - The import process:
-
  - Creates any Jobs in the archive not found in this project with a new unique UUID
  - Updates any Jobs in the archive that match Jobs found in the project (group and name match)
  - Creates new Executions for the imported Jobs, and creates the output log files on disk
@@ -208,5 +207,5 @@ Or you can compile it from source with these steps:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MTkwNzMyMF19
+eyJoaXN0b3J5IjpbLTgzMTYwNTM0XX0=
 -->
