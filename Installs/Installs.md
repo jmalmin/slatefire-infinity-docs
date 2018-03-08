@@ -251,14 +251,18 @@ Or you can compile it from source with these steps:
 		yum -y install python35u-pip-9.0.1-1.ius.centos7.noarch.rpm python35u-devel-3.5.4-1.ius.centos7.x86_64.rpm
 	
 
-2. **Centos 7** install
+ 5. **Centos 7** install
 
 	   cd ~/repo/rundeck_repo/linux/pip
 	   yum -y install python35u-pip-9.0.1-1.ius.centos7.noarch.rpm
+
+**Virtualenv install**
+
+ 6. List item
 
 			 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTQ3NzMwN119
+eyJoaXN0b3J5IjpbMTg3NDAyODYzMl19
 -->
