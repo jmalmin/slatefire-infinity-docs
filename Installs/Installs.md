@@ -303,7 +303,14 @@ This directory is typically called rundeck_src. or <env name> in example below.
 
     sudo su
     yum install firefox
-XVFB
+**XVFB**
+
+    # virtual desktop for selenium jobs
+	# install xvfb for centos
+	yum install xorg-x11-server-Xvfb
+	xvfb-run --server-args='-screen 0, 1920x1080x16' google-chrome --headless --disable-gpu -remote-debugging-port=9222
+	# set export display
+	export DISPLAY=:0
 
 **Chrome Selenium Driver**
 
@@ -311,7 +318,7 @@ XVFB
     sudo su
     yum -y install chromedriver-61.0.3163.100-1.el7.x86_64.rpm
     
-
+**Phantomjs**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjIwOTk1MV19
+eyJoaXN0b3J5IjpbLTc0NTg4Njk2OF19
 -->
