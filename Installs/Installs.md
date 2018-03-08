@@ -85,11 +85,14 @@ Or you can compile it from source with these steps:
 	
 		sudo su
 		<provide password>
-		\[root@lxcentos10 logs\]# firewall-cmd --zone=public --add-port=5550/tcp --permanent
+		[root@masterserver]# firewall-cmd --zone=public --add-port=5550/tcp --permanent
 		success
-		\[root@lxcentos10 logs\]# firewall-cmd --reload
+		[root@masterserver]# firewall-cmd --reload
 		success`
 
+ 2. Poor can be configured in the following file:
+ 3. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NzkwMDI5XX0=
+eyJoaXN0b3J5IjpbNTQxNDA5MTQ2XX0=
 -->
