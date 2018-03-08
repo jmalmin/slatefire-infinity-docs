@@ -281,6 +281,11 @@ This directory is typically called rundeck_src. or <env name> in example below.
 
 ## **Driver Installs**
 
+**DB2**
+
+    cd ~/repo/rundeck_repo/linux/db2/driver
+    
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxODIxOTg0XX0=
+eyJoaXN0b3J5IjpbNTkwNTAxNTM1XX0=
 -->
