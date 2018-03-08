@@ -187,6 +187,7 @@ Or you can compile it from source with these steps:
 
 **Update project nodes in resources.xml**
 
+
 cd ~/apps/rundeck/projects/<Your Project Name>/etc
 vi resources.xml
 #edit resources.xml and include your nodes.
@@ -208,5 +209,5 @@ vi resources.xml
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NjMxMzM5Nl19
+eyJoaXN0b3J5IjpbLTIxMTg3MTQwNDJdfQ==
 -->
