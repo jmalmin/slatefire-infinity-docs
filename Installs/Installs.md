@@ -242,11 +242,15 @@ Or you can compile it from source with these steps:
 **Pip 3.5 install**
 
  1. find the pip install directory
- 5. 
-
  
 
 
+		sudo yum -y update
+
+		sudo yum -y install python35u-pip-9.0.1-1.ius.centos7.noarch.rpm python35u-devel-3.5.4-1.ius.centos7.x86_64.rpm
+		 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwOTA1NjM4XX0=
+eyJoaXN0b3J5IjpbLTc4MDM2NjE1MF19
 -->
