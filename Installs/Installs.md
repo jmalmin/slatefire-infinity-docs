@@ -247,11 +247,11 @@ Or you can compile it from source with these steps:
 		cd ~/apps/rundeck_repo/linux/pip
 		sudo su
 		yum -y install ius-release-1.0-15.ius.centos7.noarch.rpm
-		sudo yum -y updat
-		sudo yum -y install python35u-pip-9.0.1-1.ius.centos7.noarch.rpm python35u-devel-3.5.4-1.ius.centos7.x86_64.rpm
+		yum -y update
+		yum -y install python35u-pip-9.0.1-1.ius.centos7.noarch.rpm python35u-devel-3.5.4-1.ius.centos7.x86_64.rpm
 		 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjM1MDU4NzddfQ==
+eyJoaXN0b3J5IjpbMzk0MjkzMDgyXX0=
 -->
