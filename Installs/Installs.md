@@ -160,12 +160,41 @@ Or you can compile it from source with these steps:
 		
 **Import jobs to rundeck**
 
- 1. Please find the latest version of Demo jobs for rundeck in the URL
-    provided here. You will import it per the instructions below.
-
-		
+ - Please find the latest version of Demo jobs for rundeck in the URL
+    provided here. You will import it per the instructions below.		
 		[https://slatefirecom.sharepoint.com/:u:/s/SlateFire/EXmVae2wtuVEneRrsqmeFjcB4XQB5az8cyDOcJM0h6qZQQ?e=XXXX](https://slatefirecom.sharepoint.com/:u:/s/SlateFire/EXmVae2wtuVEneRrsqmeFjcB4XQB5az8cyDOcJM0h6qZQQ?e=XXXX)
 
+
+**Export an archive** 
+
+ -To export, visit the "Admin" link in the Rundeck page header.
+
+ -Click on the link under "Export Archive" to download an archive containing the project Jobs, Executions and  -History.
+
+This archive can be imported into any other Rundeck project.
+
+The archive will contain:
+
+All Job definitions from the project All Executions from the project (both Job and Adhoc executions) All Execution log files (output logs) All History reports from the project Note that the archive will not contain:
+
+The Project config file project.properties located under your $RDECK_BASE/projects/[name]/etc Resource definitions (such as resources.xml or resources received from external providers.) You should back up those contents separately if necessary.
+
+**Import an archive**
+To import the contents of an exported archive, visit the "Admin" link in the Rundeck page header.
+
+Click on "Import Archive" to display the import form.
+
+Choose the rundeck archive file to import (should end with ".rdproject.jar").
+
+Click "Import".
+
+The import process:
+
+Creates any Jobs in the archive not found in this project with a new unique UUID
+Updates any Jobs in the archive that match Jobs found in the project (group and name match)
+Creates new Executions for the imported Jobs, and creates the output log files on disk
+Creates new History reports for imported Executions and Jobs
+Note that because the archive does not contain the project configuration or resource definitions, you will have to configure those separately for the new or updated project.
 
 **Update project nodes in resources.xml**
 
@@ -189,5 +218,5 @@ Or you can compile it from source with these steps:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NTAxMDg1XX0=
+eyJoaXN0b3J5IjpbLTkxOTM3NzM2Ml19
 -->
