@@ -158,8 +158,16 @@ Or you can compile it from source with these steps:
 		drwxrwxr-x. 4 username username        28 Feb 13 22:57 tools
 		drwxrwxr-x. 8 username username       135 Feb 13 23:08 var
 		
+**Import jobs to rundeck**
+
+ 1. Please find the latest version of Demo jobs for rundeck in the URL
+    provided here. You will import it per the instructions below.
 
 
+[https://slatefirecom.sharepoint.com/:u:/s/SlateFire/EXmVae2wtuVEneRrsqmeFjcB4XQB5az8cyDOcJM0h6qZQQ?e=mevJHL](https://slatefirecom.sharepoint.com/:u:/s/SlateFire/EXmVae2wtuVEneRrsqmeFjcB4XQB5az8cyDOcJM0h6qZQQ?e=mevJHL)
+
+
+Update 
 
 **Basic install is complete at this point for master server.**
 
@@ -169,5 +177,5 @@ Or you can compile it from source with these steps:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU5MzM4MTk3XX0=
+eyJoaXN0b3J5IjpbMTYxMTQyMTI5MV19
 -->
