@@ -258,11 +258,14 @@ Or you can compile it from source with these steps:
 
 **Virtualenv install**
 
- 6. List item
+ 1. Change directory where source code will be run.
+ 
+
+    cd ~/apps/rundeck_src
 
 			 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDAyODYzMl19
+eyJoaXN0b3J5IjpbLTQwMTA1ODk3OF19
 -->
