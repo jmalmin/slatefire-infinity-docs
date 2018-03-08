@@ -67,6 +67,9 @@ Or you can compile it from source with these steps:
  1. Place rundeck_licensed.tar in the following folder.
 
 		scp rundeck_licensed.tar username@lxcentosmaster:~/repo
+		cd ~/repo
+		cp rundeck_licensed.tar ~/apps
+		cd ~/apps
 
  2.  Rundeck port can be configured in the following file:
   ` vi ~/apps/start_stop_rundeck.sh`
@@ -148,5 +151,5 @@ Or you can compile it from source with these steps:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDMxNjg0NF19
+eyJoaXN0b3J5IjpbMTI5OTM5MjQ0N119
 -->
