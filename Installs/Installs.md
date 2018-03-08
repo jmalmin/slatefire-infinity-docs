@@ -12,7 +12,7 @@ The Master server will need software installed to support the ability for it to 
 
 **Steps for installs:**
 
-**ssh**
+**SSH**
 
  1. setup ssh key on master server
 
@@ -27,7 +27,7 @@ The Master server will need software installed to support the ability for it to 
 
 		
 
-
+**Expect**
 
 
  3. Install expect for Centos 7 as sudo user.
@@ -56,5 +56,5 @@ Or you can compile it from source with these steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MzI2NTM4NF19
+eyJoaXN0b3J5IjpbLTc0MTQ0MjQ0OV19
 -->
