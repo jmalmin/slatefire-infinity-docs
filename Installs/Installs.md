@@ -292,6 +292,7 @@ This directory is typically called rundeck_src. or <env name> in example below.
     cd ~repo/rundeck_repo/linux/selenium
     pip3.5 install selenium-3.8.0.tar.gz
 
+Chrome Driver
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NTY0MDk1Ml19
+eyJoaXN0b3J5IjpbNzE5MDMzMTIwXX0=
 -->
