@@ -98,21 +98,26 @@ Or you can compile it from source with these steps:
 		success
 		[root@masterserver]# firewall-cmd --reload
 		success`
+		cd ~/apps
 
- 2. Rundeck port can be configured in the following file:
- 3. start_stop_rundeck.sh
+		#install rundeck in ~/apps folder
 
-		start_stop_rundeck.sh
+		[username@lxcentosmaster rundeck]$ ls -al
+		total 97936
+		drwxrwxr-x. 8 username username       149 Mar  7 20:34 .
+		drwxrwxr-x. 3 username username        79 Feb 28 16:01 ..
+		drwxrwxr-x. 2 username username       223 Feb 28 16:01 etc
+		drwxrwxr-x. 3 username username      4096 Mar  6 11:59 libext
+		drwxrwxr-x. 3 username username        18 Feb 13 23:08 projects
+		-rwxrwxr-x. 1 username username 100276613 Feb 10 16:57 rundeck-launcher-X.X.X.jar
+		drwxrwxr-x. 9 username username        90 Feb 13 23:06 server
+		-rwxrwxr-x. 1 username username      1990 Feb 14 13:12 start_stop_rundeck.sh
+		drwxrwxr-x. 4 username username        28 Feb 13 22:57 tools
+		drwxrwxr-x. 8 username username       135 Feb 13 23:08 var
+		
 
-	
-		vi start_stop_runeck.sh
-		#modify PORT=5550
-		PORT=4440 
-		# save file 
-		Esc
-		wq
-	
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDQ2MDQ2OV19
+eyJoaXN0b3J5IjpbMTczODU0MDMzNV19
 -->
