@@ -26,13 +26,13 @@ The Master server will need software installed to support the ability for it to 
  1. setup ssh key on master server.
 
 
-		cd ~
-		mkdir .ssh
-		cd .ssh
+		#cd ~
+		#mkdir .ssh
+		#cd .ssh
 		#execute this command and don’t make a passphrase.
-		ssh-keygen -t rsa
-		cd ~
-		chmod -R 700 .ssh
+		#ssh-keygen -t rsa
+		#cd ~
+		#chmod -R 700 .ssh
 
 		
 
@@ -62,6 +62,7 @@ Or you can compile it from source with these steps:
        # ./configure
        # make
        # make install
+       
 **Rundeck transfer to master server**
 
  1. Place rundeck_licensed.tar in the following folder.
@@ -162,5 +163,5 @@ Or you can compile it from source with these steps:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDcyOTQ1NTZdfQ==
+eyJoaXN0b3J5IjpbLTc5MDcwMTMxOF19
 -->
