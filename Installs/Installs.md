@@ -15,7 +15,15 @@ The Master server will need software installed to support the ability for it to 
 **Folder Setup**
 
  1. Master server will need folders setup for applications and local repository.
- 2. 
+ 2. `<!\[endif\]-->
+
+cd ~
+
+mkdir apps
+
+cd apps
+
+ic�h�P1?`
 
 **SSH**
 
@@ -100,5 +108,5 @@ Or you can compile it from source with these steps:
 		start_stop_rundeck.sh
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjk1MzE4NjNdfQ==
+eyJoaXN0b3J5IjpbLTcwOTIwOTk5XX0=
 -->
