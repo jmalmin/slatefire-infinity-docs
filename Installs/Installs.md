@@ -68,17 +68,12 @@ Or you can compile it from source with these steps:
 		scp rundeck_licensed.tar username@lxcentosmaster:~/repo
 
  2.  Rundeck port can be configured in the following file:
-  `~/apps/start_stop_rundeck.sh`
- 
+  ` vi ~/apps/start_stop_rundeck.sh`
+  
 
-		
-		vi ~/apps/start\_stop\_rundeck.sh
-		#modify PORT=5550
-		PORT=4440 
-		# save file 
-		Esc
-		wq
-	`
+ 3. Modify port.
+ 4. `#modify PORT=5550
+		PORT=4440 `
 
 **JAVA**
 
@@ -148,5 +143,5 @@ Or you can compile it from source with these steps:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTY4MjMyOTJdfQ==
+eyJoaXN0b3J5IjpbNjE4MDU5MjJdfQ==
 -->
