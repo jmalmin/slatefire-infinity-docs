@@ -56,7 +56,7 @@ Or you can compile it from source with these steps:
 
 **JAVA**
 
- 1. Setup J
+ 1. Setup Java
 
     	# add jdk for rundeck
 
@@ -79,5 +79,5 @@ Or you can compile it from source with these steps:
 		export PATH
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MTE1NTU4OF19
+eyJoaXN0b3J5IjpbMTA0NTMxMjM0Ml19
 -->
