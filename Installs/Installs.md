@@ -80,12 +80,13 @@ Or you can compile it from source with these steps:
 
 
  2.  Rundeck port can be configured in the following file:
-  `cd ~/apps/rundeck
-   
-  vi ~/apps/start_stop_rundeck.sh`
+
+		  cd ~/apps/rundeck
+		  vi ~/apps/start_stop_rundeck.sh
+
   
 
- 3. Modify port.
+ 3. Example modifing port.
 
 		#example:
 		#change port from 5550 to 4440
@@ -161,5 +162,5 @@ Or you can compile it from source with these steps:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMzOTgzNTYzXX0=
+eyJoaXN0b3J5IjpbMTY4MTAxOTg3Nl19
 -->
