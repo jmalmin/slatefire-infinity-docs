@@ -266,11 +266,14 @@ Or you can compile it from source with these steps:
 	    sudo su
 	    pip3.5 install -U virtualenv
 
- 2. verify that you are in the directory
+ 7. verify that you are in the directory where source code will be run on master server
+ 
+
+    enter code here
 
 			 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2NTI1MjE0XX0=
+eyJoaXN0b3J5IjpbLTE3NjAxNDg1ODddfQ==
 -->
