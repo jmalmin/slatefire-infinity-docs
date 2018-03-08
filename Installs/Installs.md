@@ -261,11 +261,16 @@ Or you can compile it from source with these steps:
  1. Change directory where source code will be run.
  
 
-    cd ~/apps/rundeck_src
+   
+    cd ~/apps
+    mkdir rundeck_src
+    cd rundeck_src
+    sudo su
+    pip3.5 install -U virtualenv
 
 			 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTA1ODk3OF19
+eyJoaXN0b3J5IjpbLTg4MTAzNjAzXX0=
 -->
