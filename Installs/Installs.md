@@ -61,7 +61,21 @@ Or you can compile it from source with these steps:
        # ./configure
        # make
        # make install
-Repo configure
+**Repo configure**
+
+ 1. Place rundeck_licensed.tar in ~/repo
+ 2.  Rundeck port can be configured in the following file:
+ 3. start_stop_rundeck.sh
+
+		
+		vi start_stop_runeck.sh
+		#modify PORT=5550
+		PORT=4440 
+		# save file 
+		Esc
+		wq
+	`
+
 **JAVA**
 
  1. Setup Java
@@ -130,5 +144,5 @@ Repo configure
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MjIzODU4Nl19
+eyJoaXN0b3J5IjpbLTE0MzgxMDc4MzldfQ==
 -->
