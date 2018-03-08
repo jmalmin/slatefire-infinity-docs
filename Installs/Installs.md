@@ -78,6 +78,10 @@ Or you can compile it from source with these steps:
 
 		export PATH
 
+**Rundeck**
+
+ 1. open port for rundeck and make it permanent as root home direc�h�\\5?
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExNzU1MDAyXX0=
+eyJoaXN0b3J5IjpbLTI0MjkwNTgyMV19
 -->
