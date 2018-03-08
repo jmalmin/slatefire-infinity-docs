@@ -165,13 +165,12 @@ Or you can compile it from source with these steps:
 		[https://slatefirecom.sharepoint.com/:u:/s/SlateFire/EXmVae2wtuVEneRrsqmeFjcB4XQB5az8cyDOcJM0h6qZQQ?e=XXXX](https://slatefirecom.sharepoint.com/:u:/s/SlateFire/EXmVae2wtuVEneRrsqmeFjcB4XQB5az8cyDOcJM0h6qZQQ?e=XXXX)
 
 
-**Export an archive** 
+**Export an archive**
+ - To export, visit the "Admin" link in the Rundeck page header.
 
- -To export, visit the "Admin" link in the Rundeck page header.
+ - Click on the link under "Export Archive" to download an archive containing the project Jobs, Executions and  -History.
 
- -Click on the link under "Export Archive" to download an archive containing the project Jobs, Executions and  -History.
-
-This archive can be imported into any other Rundeck project.
+ - This archive can be imported into any other Rundeck project.
 
 The archive will contain:
 
@@ -218,5 +217,5 @@ Note that because the archive does not contain the project configuration or reso
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTM3NzM2Ml19
+eyJoaXN0b3J5IjpbLTIwMzA2ODYzNjNdfQ==
 -->
