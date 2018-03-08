@@ -253,12 +253,12 @@ Or you can compile it from source with these steps:
 
 2. Centos 7 install
 
-	   cd ~/
+	   cd ~/repo/rundeck_repo/linux/pip
 	   yum -y install python35u-pip-9.0.1-1.ius.centos7.noarch.rpm
 
 			 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDg2Nzc3ODFdfQ==
+eyJoaXN0b3J5IjpbLTYyMDAxMzE4OF19
 -->
