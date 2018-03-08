@@ -4,13 +4,14 @@
 
 The Master server will need software installed to support the ability for it to communicate to all node servers. For the most part these installations will be completed as a sudo user and will not make any changes to existing programs on the Centos or Window systems.
  
-**These will be manual installations on the master server only.** 
 
+> **These will be manual installations on the master server only.** 
 
+ 
 ----------
 
 
-**Steps for installs:**
+**Steps by Step:**
 
 **Folder Setup**
 
@@ -73,10 +74,11 @@ Or you can compile it from source with these steps:
 
  3. Modify port.
 
-		 #example:
-		 #change port from 5550 to 4440
-		 PORT=5550
-		 PORT=4440 
+		#example:
+		#change port from 5550 to 4440
+		
+		PORT=5550
+		PORT=4440 
 
 **JAVA**
 
@@ -146,5 +148,5 @@ Or you can compile it from source with these steps:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2MzE5Mzc0XX0=
+eyJoaXN0b3J5IjpbMTkzNDMxNjg0NF19
 -->
