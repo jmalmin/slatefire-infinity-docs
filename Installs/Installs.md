@@ -163,8 +163,8 @@ Or you can compile it from source with these steps:
  1. Please find the latest version of Demo jobs for rundeck in the URL
     provided here. You will import it per the instructions below.
 
-
-[https://slatefirecom.sharepoint.com/:u:/s/SlateFire/EXmVae2wtuVEneRrsqmeFjcB4XQB5az8cyDOcJM0h6qZQQ?e=mevJHL](https://slatefirecom.sharepoint.com/:u:/s/SlateFire/EXmVae2wtuVEneRrsqmeFjcB4XQB5az8cyDOcJM0h6qZQQ?e=mevJHL)
+		
+		[https://slatefirecom.sharepoint.com/:u:/s/SlateFire/EXmVae2wtuVEneRrsqmeFjcB4XQB5az8cyDOcJM0h6qZQQ?e=XXXX](https://slatefirecom.sharepoint.com/:u:/s/SlateFire/EXmVae2wtuVEneRrsqmeFjcB4XQB5az8cyDOcJM0h6qZQQ?e=XXXX)
 
 
 **Update project nodes in resources.xml**
@@ -189,5 +189,5 @@ Or you can compile it from source with these steps:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDc0MjA4M119
+eyJoaXN0b3J5IjpbLTc1NTAxMDg1XX0=
 -->
