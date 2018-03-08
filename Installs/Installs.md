@@ -103,7 +103,9 @@ Or you can compile it from source with these steps:
  2. Poor can be configured in the following file:
 
 		start_stop_rundeck.sh
+		vi start_stop_runeck.sh
+	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5NTg0NDI0XX0=
+eyJoaXN0b3J5IjpbLTUzMjk4MDg3OF19
 -->
