@@ -56,9 +56,9 @@ Or you can compile it from source with these steps:
 
 **JAVA**
 
-	
+ 1. Setup J
 
-		# add jdk for rundeck
+    	# add jdk for rundeck
 
 		scp jdk-8u151-linux-x64.tar.gz <username>@<master.server>:~
 
@@ -79,5 +79,5 @@ Or you can compile it from source with these steps:
 		export PATH
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg5MDk5MDg2XX0=
+eyJoaXN0b3J5IjpbLTg2MTE1NTU4OF19
 -->
