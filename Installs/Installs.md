@@ -220,11 +220,11 @@ Or you can compile it from source with these steps:
 
  1. Move to the rpm folder inside repo.
 
-	    cd ~/repo/rundeck_repo/linux/python
+    cd ~/repo/rundeck_repo/linux/python
 
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDA1OTkzMF19
+eyJoaXN0b3J5IjpbLTk5OTUyMDMzNF19
 -->
