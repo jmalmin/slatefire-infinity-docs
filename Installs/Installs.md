@@ -172,16 +172,18 @@ Or you can compile it from source with these steps:
  - The Project config file project.properties located under your $RDECK_BASE/projects/[name]/etc Resource definitions (such as    resources.xml or resources received from external providers.) You    should back up those contents separately if necessary.
 
 **Import an archive**
- 8. To import the contents of an exported archive, visit the "Admin" link in the Rundeck page header.
- 9. Click on "Import Archive" to display the import form.
- 10. Choose the rundeck archive file to import (should end with ".rdproject.jar").
- 11. Click "Import".
- 12. The import process:
- 13. Creates any Jobs in the archive not found in this project with a new unique UUID
- 14. Updates any Jobs in the archive that match Jobs found in the project (group and name match)
- 15. Creates new Executions for the imported Jobs, and creates the output log files on disk
- 16. Creates new History reports for imported Executions and Jobs
- 17. Note that because the archive does not contain the project configuration or resource definitions, you will have to configure those separately for the new or updated project.
+ - To import the contents of an exported archive, visit the "Admin" link
+   in the Rundeck page header.
+ - Click on "Import Archive" to display the import form.
+ -  Choose the rundeck archive file to import (should end with ".rdproject.jar").
+ - Click "Import".
+ - The import process:
+ - Creates any Jobs in the archive not found in this project with a new unique UUID
+ - Updates any Jobs in the archive that match Jobs found in the project (group and name match)
+ - Creates new Executions for the imported Jobs, and creates the output log files on disk
+ -  Creates new History reports for imported Executions and Jobs
+ -  Note that because the archive does not contain the project configuration or resource definitions, you will have to configure
+   those separately for the new or updated project.
 
 **Update project nodes in resources.xml**
 
@@ -210,5 +212,5 @@ Or you can compile it from source with these steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTgyNjcxMF19
+eyJoaXN0b3J5IjpbLTEwMTEyNDU2OTNdfQ==
 -->
