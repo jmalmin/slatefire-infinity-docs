@@ -279,7 +279,8 @@ This directory is typically called rundeck_src. or <env name> in example below.
 
 ----------
 
+## **Centos 7 **
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTU1MTUxOF19
+eyJoaXN0b3J5IjpbOTgxMjU4ODAzXX0=
 -->
