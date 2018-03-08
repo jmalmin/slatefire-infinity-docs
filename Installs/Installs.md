@@ -17,14 +17,10 @@ The Master server will need software installed to support the ability for it to 
  1. Master server will need folders setup for applications and local repository.
  2. `<!\[endif\]-->
 
-cd ~
-
-mkdir apps
-
-cd apps
-
-ic�h�P1?`
-
+		cd ~
+		mkdir apps repo installs
+		cd apps
+		
 **SSH**
 
  1. setup ssh key on master server
@@ -108,5 +104,5 @@ Or you can compile it from source with these steps:
 		start_stop_rundeck.sh
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwOTIwOTk5XX0=
+eyJoaXN0b3J5IjpbLTEyMTcxNjQxXX0=
 -->
