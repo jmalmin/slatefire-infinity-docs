@@ -12,6 +12,10 @@ The Master server will need software installed to support the ability for it to 
 
 **Steps for installs:**
 
+**Folder Setup**
+
+ 1. Master server will need folders setup for app
+
 **SSH**
 
  1. setup ssh key on master server
@@ -91,8 +95,9 @@ Or you can compile it from source with these steps:
 		success`
 
  2. Poor can be configured in the following file:
- 3.  start_stop_rundeck.sh
+
+		start_stop_rundeck.sh
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MDk2OTE3XX0=
+eyJoaXN0b3J5IjpbNTkyMjkyMTUzXX0=
 -->
