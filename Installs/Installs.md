@@ -229,24 +229,18 @@ Or you can compile it from source with these steps:
  3. Install python as sudo user.
  
 		# move to python folder to install python3.5
-
 		tar xzf Python-3.5.2.tgz
-
 		cd Python-3.5.2
-
 		./configure
-
-		sudo make -j && make altinstall
-
+		make -j && make altinstall
+		
 		#Check version of python is installed as normal user : 
-
 		python3.5 -V
-
 		Response should be:  Python 3.5.2
 
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODI0NzE2MF19
+eyJoaXN0b3J5IjpbLTE2ODcwNzk2MzVdfQ==
 -->
