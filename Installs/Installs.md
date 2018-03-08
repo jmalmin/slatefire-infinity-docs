@@ -267,9 +267,10 @@ Or you can compile it from source with these steps:
 	    pip3.5 install -U virtualenv
 
  4. verify that you are in the directory where source code will be run on master server
+ 5. This directory is typically called rundeck_src. or <env name> in example below.
 
 		virtualenv -p python3.5 <env name> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTA5NDI1MV19
+eyJoaXN0b3J5IjpbLTEzNjU0NzIwMzFdfQ==
 -->
