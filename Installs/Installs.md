@@ -159,8 +159,15 @@ Or you can compile it from source with these steps:
 		drwxrwxr-x. 8 username username       135 Feb 13 23:08 var
 		
 
+
+
+**Basic install is complete at this point for master server.**
+
+----------
+
+
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk1NjUyNjIzXX0=
+eyJoaXN0b3J5IjpbLTE0NzQyNDI3MjJdfQ==
 -->
