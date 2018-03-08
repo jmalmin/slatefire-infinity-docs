@@ -61,7 +61,7 @@ Or you can compile it from source with these steps:
        # ./configure
        # make
        # make install
-
+Rundeck Install
 **JAVA**
 
  1. Setup Java
@@ -130,5 +130,5 @@ Or you can compile it from source with these steps:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTE1NzM0Ml19
+eyJoaXN0b3J5IjpbNTg1MzkxODk3XX0=
 -->
