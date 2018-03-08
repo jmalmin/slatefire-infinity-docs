@@ -62,6 +62,23 @@ Or you can compile it from source with these steps:
        ./configure
        make
        make install
+
+
+**Rundeck Repo transfer to master server**
+
+ 1. Place rundeck_l.tar in the following folder.
+
+		scp rundeck_licensed.tar username@lxcentosmaster:~/repo
+		cd ~/repo
+		cp rundeck_licensed.tar ~/apps
+		cd ~/apps
+		[username@lxcentosmaster apps]$ ls -al
+		total 340104
+		drwxrwxr-x.  3 username username        72 Mar  7 20:51 .
+		drwx------. 23 username username      4096 Mar  7 20:34 ..
+		drwxrwxr-x.  8 username username       149 Mar  7 20:34 rundeck
+		-rw-rw-r--.  1 username username 348256681 Feb 28 16:01 rundeck_licensed.tar
+		tar-xvf rundeck_licensed.tar
        
 **Rundeck licensed transfer to master server**
 
@@ -212,5 +229,5 @@ Or you can compile it from source with these steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDQ2NTc5M119
+eyJoaXN0b3J5IjpbNDQyMDUwNDY5XX0=
 -->
