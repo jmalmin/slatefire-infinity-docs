@@ -301,9 +301,9 @@ This directory is typically called rundeck_src. or <env name> in example below.
  
 **Firefox**
 
+    sudo su
     yum install firefox
-
-
+XVFB
 
 **Chrome Selenium Driver**
 
@@ -313,5 +313,5 @@ This directory is typically called rundeck_src. or <env name> in example below.
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5OTUzOTRdfQ==
+eyJoaXN0b3J5IjpbLTEwNjIwOTk1MV19
 -->
