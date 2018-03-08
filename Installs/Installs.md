@@ -119,12 +119,10 @@ Or you can compile it from source with these steps:
 
 **Rundeck**
 
- 2. Rundeck port can be configured in the following file:
- 3. start_stop_rundeck.sh
+ 1. Rundeck port can be configured in the following file:
+ 2. start_stop_rundeck.sh
 
-		start_stop_rundeck.sh
-
-	
+		
 		vi start_stop_runeck.sh
 		#modify PORT=5550
 		PORT=4440 
@@ -132,7 +130,7 @@ Or you can compile it from source with these steps:
 
 	
 
- 1. open port for rundeck and make it permanent as root home
+ 3. open port for rundeck and make it permanent as root home
 
 	
 		sudo su
@@ -212,5 +210,5 @@ Or you can compile it from source with these steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTA2NDQxNl19
+eyJoaXN0b3J5IjpbLTE5MjM0NTA1NzVdfQ==
 -->
