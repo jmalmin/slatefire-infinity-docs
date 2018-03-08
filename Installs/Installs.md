@@ -284,8 +284,13 @@ This directory is typically called rundeck_src. or <env name> in example below.
 **DB2**
 
     cd ~/repo/rundeck_repo/linux/db2/driver
-    
+    pip3.5 install ibm_db-2.0.8a0-cp35-cp35m-linux_x86_64.whl
+
+
+**Selenium**
+
+    enter code here
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkwNTAxNTM1XX0=
+eyJoaXN0b3J5IjpbLTU5MTYzOTE2Ml19
 -->
