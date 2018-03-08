@@ -15,7 +15,8 @@ The Master server will need software installed to support the ability for it to 
 **Folder Setup**
 
  1. Master server will need folders setup for applications and local repository.
- 2. `<!\[endif\]-->
+ 2. Folder - apps repo and installs will be created manually.
+
 
 		cd ~
 		mkdir apps repo installs
@@ -23,7 +24,7 @@ The Master server will need software installed to support the ability for it to 
 		
 **SSH**
 
- 1. setup ssh key on master server
+ 1. setup ssh key on master server.
 
 
 		cd ~
@@ -47,7 +48,7 @@ The Master server will need software installed to support the ability for it to 
      
 Or you can compile it from source with these steps:
 
-1) Download the expect package from the below link
+1) Download the expect package from the below link.
 
 	[http://sourceforge.net/projects/expect/](http://sourceforge.net/projects/expect/)
 2) Install the required dependecy packages "Tcl/Tk" language toolkit
@@ -104,5 +105,5 @@ Or you can compile it from source with these steps:
 		start_stop_rundeck.sh
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTcxNjQxXX0=
+eyJoaXN0b3J5IjpbOTE5NTg0NDI0XX0=
 -->
