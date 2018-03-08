@@ -11,6 +11,14 @@ The Master server will need software installed to support the ability for it to 
 
 
 **Steps for installs:**
+
+
+
+
+
+
+
+
  1. Install expect for Centos 7 as sudo user.
  
      
@@ -37,5 +45,5 @@ Or you can compile it from source with these steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNTY5MDAwNl19
+eyJoaXN0b3J5IjpbMTE2Mzc2NDg3MF19
 -->
