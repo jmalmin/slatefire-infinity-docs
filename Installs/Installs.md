@@ -241,7 +241,7 @@ Or you can compile it from source with these steps:
 
 **Pip 3.5 install**
 
- 4. Navigate to pip repo folder. ***Older version of Centos***
+ 1. Navigate to pip repo folder. ***Older version of Centos***
  
 
 		cd ~/apps/rundeck_repo/linux/pip
@@ -251,14 +251,14 @@ Or you can compile it from source with these steps:
 		yum -y install python35u-pip-9.0.1-1.ius.centos7.noarch.rpm python35u-devel-3.5.4-1.ius.centos7.x86_64.rpm
 	
 
- 5. **Centos 7** install
+ 2. **Centos 7** install
 
 	   cd ~/repo/rundeck_repo/linux/pip
 	   yum -y install python35u-pip-9.0.1-1.ius.centos7.noarch.rpm
 
 **Virtualenv install**
 
- 6. Change directory where source code will be run.
+ 3. Change directory where source code will be run.
  
 	    cd ~/apps
 	    mkdir rundeck_src
@@ -266,14 +266,10 @@ Or you can compile it from source with these steps:
 	    sudo su
 	    pip3.5 install -U virtualenv
 
- 7. verify that you are in the directory where source code will be run on master server
- 
+ 4. verify that you are in the directory where source code will be run on master server
 
-    enter code here
-
-			 
-
+		virtualenv -p python3.5 <env name> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjAxNDg1ODddfQ==
+eyJoaXN0b3J5IjpbMTY4MTA5NDI1MV19
 -->
