@@ -223,15 +223,13 @@ Or you can compile it from source with these steps:
 	     cd ~/repo/rundeck_repo/linux/python
 
  2. Install supporting rpm packages.
- 
-
-    <!\[endif\]-->
 
 		yum -y install autoconf-2.69-11.el7.noarch.rpm autogen-5.18-5.el7.x86\_64.rpm automake-1.13.4-3.el7.noarch.rpm gcc-4.8.5-16.el7\_4.1.x86\_64.rpm git-1.8.3.1-12.el7\_4.x86\_64.rpm libmnl-devel-1.0.3-7.el7.i686.rpm libmnl-devel-1.0.3-7.el7.x86\_64.rpm libuuid-devel-2.23.2-43.el7\_4.2.i686.rpm libuuid-devel-2.23.2-43.el7\_4.2.x86\_64.rpm make-3.82-23.el7.x86\_64.rpm pkgconfig-0.27.1-4.el7.i686.rpm pkgconfig-0.27.1-4.el7.x86\_64.rpm zlib-devel-1.2.7-17.el7.i686.rpm zlib-devel-1.2.7-17.el7.x86\_64.rpm expect-5.45-14.el7\_1.x86\_64.rpm ipa-gothic-fonts-003.03-5.el7.noarch.rpm sqlite-devel-3.7.17-8.el7.i686.rpm sqlite-devel-3.7.17-8.el7.x86\_64.rpm xorg-x11-fonts-100dpi-7.5-9.el7.noarch.rpm xorg-x11-fonts-75dpi-7.5-9.el7.noarch.rpm xorg-x11-fonts-cyrillic-7.5-9.el7.noarch.rpm xorg-x11-fonts-misc-7.5-9.el7.noarch.rpm xorg- figlet-2.2.5-9.el7.x86\_64.rpmx11-fonts-Type1-7.5-9.el7.noarch.rpm xorg-x11-utils-7.5-22.el7.x86\_64.rpm yum-utils-1.1.31-42.el7.noarch.rpm figlet-2.2.5-9.el7.x86\_64.rpm
+
 
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTc1MDg0OTJdfQ==
+eyJoaXN0b3J5IjpbNTA2MzkxMjExXX0=
 -->
