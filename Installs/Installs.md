@@ -290,8 +290,8 @@ This directory is typically called rundeck_src. or <env name> in example below.
 **Selenium**
 
     cd ~repo/rundeck_repo/linux/selenium
-    pip3.5 install 
+    pip3.5 install selenium-3.8.0.tar.gz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5OTczOTUxOF19
+eyJoaXN0b3J5IjpbMTY2NTY0MDk1Ml19
 -->
