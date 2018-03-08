@@ -65,7 +65,7 @@ Or you can compile it from source with these steps:
 
  1. Place rundeck_licensed.tar in the following folder.
 
-		scp licensed_~/repo
+		scp rundeck_licen~/repo
 
  2.  Rundeck port can be configured in the following file:
  3. start_stop_rundeck.sh
@@ -147,5 +147,5 @@ Or you can compile it from source with these steps:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NTA3NzI1N119
+eyJoaXN0b3J5IjpbLTE0MjgyODMxMDNdfQ==
 -->
