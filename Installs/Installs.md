@@ -60,7 +60,7 @@ Or you can compile it from source with these steps:
 
     	# add jdk for rundeck
 
-		scp jdk-8u151-linux-x64.tar.gz <username>@<master.server>:~
+		scp jdk-XXX <username>@<master.server>:~
 
 		# untar and create symbolic link in home directory
 
@@ -68,7 +68,7 @@ Or you can compile it from source with these steps:
 
 		cd ~
 
-		ln -s jdk1.8.0_151/ java
+		ln -s jdk1.XXX/ java
 
 		# update ~/.bash_profile
 
@@ -79,5 +79,5 @@ Or you can compile it from source with these steps:
 		export PATH
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTMxMjM0Ml19
+eyJoaXN0b3J5IjpbNDExNzU1MDAyXX0=
 -->
