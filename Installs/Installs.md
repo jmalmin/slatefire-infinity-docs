@@ -187,9 +187,10 @@ Or you can compile it from source with these steps:
 
 **Update project nodes in resources.xml**
 
-    cd ~/apps/rundeck/projects/<Your Project Name>/etc
-    vi resources.xml
-    #edit resources.xml and include your nodes.
+cd ~/apps/rundeck/projects/<Your Project Name>/etc
+vi resources.xml
+#edit resources.xml and include your nodes.
+
 **Update etc/hosts**
 
 
@@ -198,7 +199,6 @@ Or you can compile it from source with these steps:
     #example:
     10.0.0.111 lxcentos1
 
-
 **Basic install is complete at this point for master server.**
 
 ----------
@@ -206,6 +206,7 @@ Or you can compile it from source with these steps:
 
  
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMTYwNTM0XX0=
+eyJoaXN0b3J5IjpbMTY0NjMxMzM5Nl19
 -->
