@@ -160,33 +160,34 @@ Or you can compile it from source with these steps:
 		
 **Import jobs to rundeck**
 
- - Please find the latest version of Demo jobs for rundeck in the URL
+ 1. Please find the latest version of Demo jobs for rundeck in the URL
     provided here. You will import it per the '***Import and archive***' instructions below.		
 		[https://slatefirecom.sharepoint.com/:u:/s/SlateFire/EXmVae2wtuVEneRrsqmeFjcB4XQB5az8cyDOcJM0h6qZQQ?e=XXXX](https://slatefirecom.sharepoint.com/:u:/s/SlateFire/EXmVae2wtuVEneRrsqmeFjcB4XQB5az8cyDOcJM0h6qZQQ?e=XXXX)
 
 
 **Export an archive**
- - To export, visit the "Admin" link in the Rundeck page header.
- - Click on the link under "Export Archive" to download an archive containing the project Jobs, Executions and  -History.
- - This archive can be imported into any other Rundeck project.
- - The archive will contain:
- - All Job definitions from the project All Executions from the project (both Job and Adhoc executions) All Execution log files (output logs) All History reports from the project Note that the archive will not contain:
- - The Project config file project.properties located under your $RDECK_BASE/projects/[name]/etc Resource definitions (such as resources.xml or resources received from external providers.) You should back up those contents separately if necessary.
+ 2. To export, visit the "Admin" link in the Rundeck page header.
+ 3. Click on the link under "Export Archive" to download an archive containing the project Jobs, Executions and  -History.
+ 4. This archive can be imported into any other Rundeck project.
+ 5. The archive will contain:
+ 6. All Job definitions from the project All Executions from the project (both Job and Adhoc executions) All Execution log files (output logs) All History reports from the project Note that the archive will not contain:
+ 7. The Project config file project.properties located under your $RDECK_BASE/projects/[name]/etc Resource definitions (such as resources.xml or resources received from external providers.) You should back up those contents separately if necessary.
 
 **Import an archive**
- - To import the contents of an exported archive, visit the "Admin" link in the Rundeck page header.
- - Click on "Import Archive" to display the import form.
- - Choose the rundeck archive file to import (should end with ".rdproject.jar").
- - Click "Import".
- - The import process:
- - Creates any Jobs in the archive not found in this project with a new unique UUID
- - Updates any Jobs in the archive that match Jobs found in the project (group and name match)
- - Creates new Executions for the imported Jobs, and creates the output log files on disk
- - Creates new History reports for imported Executions and Jobs
- - Note that because the archive does not contain the project configuration or resource definitions, you will have to configure those separately for the new or updated project.
+ 8. To import the contents of an exported archive, visit the "Admin" link in the Rundeck page header.
+ 9. Click on "Import Archive" to display the import form.
+ 10. Choose the rundeck archive file to import (should end with ".rdproject.jar").
+ 11. Click "Import".
+ 12. The import process:
+ 13. Creates any Jobs in the archive not found in this project with a new unique UUID
+ 14. Updates any Jobs in the archive that match Jobs found in the project (group and name match)
+ 15. Creates new Executions for the imported Jobs, and creates the output log files on disk
+ 16. Creates new History reports for imported Executions and Jobs
+ 17. Note that because the archive does not contain the project configuration or resource definitions, you will have to configure those separately for the new or updated project.
 
 **Update project nodes in resources.xml**
 
+ 18. List item
 
 cd ~/apps/rundeck/projects/<Your Project Name>/etc
 vi resources.xml
@@ -209,5 +210,5 @@ vi resources.xml
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTg3MTQwNDJdfQ==
+eyJoaXN0b3J5IjpbMTg5MTA3MTYyMF19
 -->
