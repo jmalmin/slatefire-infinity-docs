@@ -1,6 +1,6 @@
  # Installs
 
-## **master installs**
+## **Centos 7 Master Installs**
 
 The Master server will need software installed to support the ability for it to communicate to all node servers. For the most part these installations will be completed as a sudo user and will not make any changes to existing programs on the Centos or Window systems.
  
@@ -162,5 +162,5 @@ Or you can compile it from source with these steps:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDIxNjA4N119
+eyJoaXN0b3J5IjpbLTEwNDcyOTQ1NTZdfQ==
 -->
