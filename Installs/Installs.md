@@ -172,7 +172,13 @@ Or you can compile it from source with these steps:
     cd ~/apps/rundeck/projects/<Your Project Name>/etc
     vi resources.xml
     #edit resources.xml and include your nodes.
-Update etc/hosts
+**Update etc/hosts**
+
+
+    sudo vi /etc/hosts
+    #add ip address and hostname
+    #example:
+    10.0.0.111 lxcentos1
 
 
 **Basic install is complete at this point for master server.**
@@ -183,5 +189,5 @@ Update etc/hosts
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTAzNzUzOTNdfQ==
+eyJoaXN0b3J5IjpbMjA1NDc0MjA4M119
 -->
