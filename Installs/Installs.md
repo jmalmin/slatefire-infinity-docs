@@ -41,7 +41,7 @@ The Master server will need software installed to support the ability for it to 
 
 
  1. Install expect for Centos 7 as sudo user.
- 2. If you have access to external repositories please
+ 2. If you have access to external repositories please use
  
      
 		sudo yum -y  install expect
@@ -345,5 +345,5 @@ This directory is typically called rundeck_src. or <env name> in example below.
 	-rwxrwxr-x. 1 root root 7136049 Jun 9 17:47 geckodriver
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1Mjc1Nzg3OV19
+eyJoaXN0b3J5IjpbLTE2ODc5MzU1MDRdfQ==
 -->
