@@ -91,8 +91,8 @@ Or you can compile it from source with these steps:
 		success`
 
  2. Poor can be configured in the following file:
- 3. 
+ 3.   start_stop_rundeck.sh
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQxNDA5MTQ2XX0=
+eyJoaXN0b3J5IjpbNDM0Mjk4MTE5XX0=
 -->
