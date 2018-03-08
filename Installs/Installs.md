@@ -12,24 +12,20 @@ The Master server will need software installed to support the ability for it to 
 
 **Steps for installs:**
 
+**ssh**
+
  1. setup ssh key on master server
- 2. `<!\[endif\]-->
 
-cd ~
 
-mkdir .ssh
+		cd ~
+		mkdir .ssh
+		cd .ssh
+		#execute this command and don’t make a passphrase.
+		ssh-keygen -t rsa
+		cd ~
+		chmod -R 700 .ssh
 
-cd .ssh
-
-#execute this command and don’t make a passphrase.
-
-ssh-keygen -t rsa
-
-cd ~
-
-chmod -R 700 .ssh
-
--left:.5in'�h�J?`
+		
 
 
 
@@ -60,5 +56,5 @@ Or you can compile it from source with these steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDIzNjE1XX0=
+eyJoaXN0b3J5IjpbMjE0MzI2NTM4NF19
 -->
