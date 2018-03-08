@@ -1,6 +1,6 @@
  # Installs
 
-## **Centos 7 Master Installs**
+## **Centos 7 Master Server Installs**
 
 The Master server will need software installed to support the ability for it to communicate to all node servers. For the most part these installations will be completed as a sudo user and will not make any changes to existing programs on the Centos or Window systems.
  
@@ -344,5 +344,5 @@ This directory is typically called rundeck_src. or <env name> in example below.
 	-rwxrwxr-x. 1 root root 7136049 Jun 9 17:47 geckodriver
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTEyNjA0MF19
+eyJoaXN0b3J5IjpbLTEzNDIwMTA4ODFdfQ==
 -->
