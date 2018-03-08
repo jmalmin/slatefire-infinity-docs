@@ -68,7 +68,7 @@ Or you can compile it from source with these steps:
 		scp rundeck_licensed.tar username@lxcentosmaster:~/repo
 
  2.  Rundeck port can be configured in the following file:
- 3 `~/apps/start_stop_rundeck.sh`
+  `~/apps/start_stop_rundeck.sh`
  
 
 		
@@ -148,5 +148,5 @@ Or you can compile it from source with these steps:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNDEwMDMzM119
+eyJoaXN0b3J5IjpbLTIwNTY4MjMyOTJdfQ==
 -->
