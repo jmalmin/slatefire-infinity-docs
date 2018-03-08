@@ -331,8 +331,17 @@ This directory is typically called rundeck_src. or <env name> in example below.
 
 **Geckodriver**
 
-    enter code here
+    # virtual desktop
+	[username@vm1]$ cd /usr/local/bin/
+	[username@vm1 bin]$ ls
+	[username@vm1 bin]$ sudo tar -xvzf ~/geckodriver-v0.17.0-linux64.tar.gz
+	[sudo] password for username:
+	geckodriver
+	[username@vm1 bin]$ sudo chown root:root geckodriver
+	[username@vm1 bin]$ ll
+	total 6972
+	-rwxrwxr-x. 1 root root 7136049 Jun 9 17:47 geckodriver
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzE2MDA2MDRdfQ==
+eyJoaXN0b3J5IjpbLTE3MjgyMjk5NDZdfQ==
 -->
