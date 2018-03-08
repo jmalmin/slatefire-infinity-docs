@@ -83,7 +83,7 @@ Or you can compile it from source with these steps:
  2.  Rundeck port can be configured in the following file:
 
 		 cd ~/apps/rundeck
-		  #vi ~/apps/start_stop_rundeck.sh
+		  vi ~/apps/start_stop_rundeck.sh
 
   
 
@@ -162,5 +162,5 @@ Or you can compile it from source with these steps:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYxMzE0ODUyXX0=
+eyJoaXN0b3J5IjpbMTg3MTUyNDIzNV19
 -->
