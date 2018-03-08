@@ -289,8 +289,9 @@ This directory is typically called rundeck_src. or <env name> in example below.
 
 **Selenium**
 
-    enter code here
+    cd ~repo/rundeck_repo/linux/selenium
+    pip3.5 install 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTYzOTE2Ml19
+eyJoaXN0b3J5IjpbMTM5OTczOTUxOF19
 -->
