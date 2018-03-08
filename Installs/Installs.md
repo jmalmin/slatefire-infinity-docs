@@ -25,17 +25,18 @@ The Master server will need software installed to support the ability for it to 
 		example: ~/apps/rundeck
 		min@lxcentosmaster rundeck]$ ls -al
 		
+		[username@lxcentosmaster rundeck]$ ls -al
 		total 97936
-		drwxrwxr-x. 8 jmalmin jmalmin       149 Mar  7 20:34 .
-		drwxrwxr-x. 3 jmalmin jmalmin        79 Feb 28 16:01 ..
-		drwxrwxr-x. 2 jmalmin jmalmin       223 Feb 28 16:01 etc
-		drwxrwxr-x. 3 jmalmin jmalmin      4096 Mar  6 11:59 libext
-		drwxrwxr-x. 3 jmalmin jmalmin        18 Feb 13 23:08 projects
-		-rwxrwxr-x. 1 jmalmin jmalmin 100276613 Feb 10 16:57 rundeck-launcher-2.10.6.jar
-		drwxrwxr-x. 9 jmalmin jmalmin        90 Feb 13 23:06 server
-		-rwxrwxr-x. 1 jmalmin jmalmin      1990 Feb 14 13:12 start_stop_rundeck.sh
-		drwxrwxr-x. 4 jmalmin jmalmin        28 Feb 13 22:57 tools
-		drwxrwxr-x. 8 jmalmin jmalmin       135 Feb 13 23:08 var
+		drwxrwxr-x. 8 username username       149 Mar  7 20:34 .
+		drwxrwxr-x. 3 username username        79 Feb 28 16:01 ..
+		drwxrwxr-x. 2 username username       223 Feb 28 16:01 etc
+		drwxrwxr-x. 3 username username      4096 Mar  6 11:59 libext
+		drwxrwxr-x. 3 username username        18 Feb 13 23:08 projects
+		-rwxrwxr-x. 1 username username 100276613 Feb 10 16:57 rundeck-launcher-2.10.6.jar
+		drwxrwxr-x. 9 username username        90 Feb 13 23:06 server
+		-rwxrwxr-x. 1 username username      1990 Feb 14 13:12 start_stop_rundeck.sh
+		drwxrwxr-x. 4 username username        28 Feb 13 22:57 tools
+		drwxrwxr-x. 8 username username       135 Feb 13 23:08 var
 		
 **SSH**
 
@@ -130,5 +131,5 @@ Or you can compile it from source with these steps:
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzYzMjkwNV19
+eyJoaXN0b3J5IjpbLTYxMDcwOTI3Nl19
 -->
