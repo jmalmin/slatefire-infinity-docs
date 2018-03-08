@@ -73,9 +73,10 @@ Or you can compile it from source with these steps:
 
  3. Modify port.
 
-	   #change port from 5550 to 4440
-	    PORT=5550
-	    PORT=4440 
+		 #example:
+		 #change port from 5550 to 4440
+		 PORT=5550
+		 PORT=4440 
 
 **JAVA**
 
@@ -145,5 +146,5 @@ Or you can compile it from source with these steps:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0Mjg5OTk4MV19
+eyJoaXN0b3J5IjpbMzk2MzE5Mzc0XX0=
 -->
