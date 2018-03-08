@@ -295,14 +295,23 @@ This directory is typically called rundeck_src. or <env name> in example below.
 **Chrome**
 
     cd ~/repo/rundeck_repo/linux/chrome
+    sudo su
     ./echo.sh
     yum -y install google-chrome-stable-64.0.3282.167-1.x86_64.rpm
-    
+ 
+**Firefox**
+
+    yum install firefox
+
+
+
 **Chrome Selenium Driver**
 
     cd ~/repo/rundeck_repo/linux/chrome/driver
+    sudo su
+    yum -y install chromedriver-61.0.3163.100-1.el7.x86_64.rpm
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxMjM5NzUyXX0=
+eyJoaXN0b3J5IjpbMTQ5OTUzOTRdfQ==
 -->
