@@ -238,9 +238,15 @@ Or you can compile it from source with these steps:
 		python3.5 -V
 		Response should be:  Python 3.5.2
 
+
+**Pip 3.5 install**
+
+ 1. find the pip install directory
+ 5. 
+
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODcwNzk2MzVdfQ==
+eyJoaXN0b3J5IjpbNjEwOTA1NjM4XX0=
 -->
