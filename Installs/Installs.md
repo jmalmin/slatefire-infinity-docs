@@ -61,7 +61,7 @@ Or you can compile it from source with these steps:
        # ./configure
        # make
        # make install
-Rundeck Install
+Repo configure
 **JAVA**
 
  1. Setup Java
@@ -130,5 +130,5 @@ Rundeck Install
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1MzkxODk3XX0=
+eyJoaXN0b3J5IjpbMTU2MjIzODU4Nl19
 -->
