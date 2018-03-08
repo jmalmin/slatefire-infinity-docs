@@ -54,7 +54,30 @@ Or you can compile it from source with these steps:
        # make
        # make install
 
+**JAVA**
+
+	
+
+		# add jdk for rundeck
+
+		scp jdk-8u151-linux-x64.tar.gz <username>@<master.server>:~
+
+		# untar and create symbolic link in home directory
+
+		tar -xvzf jdk-8u151-linux-x64.tar.gz
+
+		cd ~
+
+		ln -s jdk1.8.0_151/ java
+
+		# update ~/.bash_profile
+
+		export JAVA_HOME=~/java
+
+		export PATH=$JAVA_HOME/bin:$PATH
+
+		export PATH
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MTQ0MjQ0OV19
+eyJoaXN0b3J5IjpbOTg5MDk5MDg2XX0=
 -->
