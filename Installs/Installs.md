@@ -86,7 +86,7 @@ Or you can compile it from source with these steps:
 
   
 
- 3. Example modifing port.
+ 3. Example modifying port.
 
 		#example:
 		#change port from 5550 to 4440
@@ -162,5 +162,5 @@ Or you can compile it from source with these steps:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTAxOTg3Nl19
+eyJoaXN0b3J5IjpbLTc1MDIxNjA4N119
 -->
