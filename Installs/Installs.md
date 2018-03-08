@@ -320,8 +320,15 @@ This directory is typically called rundeck_src. or <env name> in example below.
     
 **Phantomjs**
 
-    enter code here
+	# virtual desktop
+	# download phantomjs
+	phantomjs-1.9.8-linux-x86_64.tar.bz2
+	sudo mkdir -p /opt/phantomjs
+	sudo tar -xjvf phantomjs-1.9.8-linux-x86_64.tar.bz2 --strip-components=1 -C /opt/phantomjs/
+	sudo ln -s /opt/phantomjs/bin/phantomjs /usr/bin/phantomjs
+	#Test
+	phantomjs /opt/phantomjs/examples/hello.js
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2ODEyMjE3OV19
+eyJoaXN0b3J5IjpbLTQxNjA1MjUzMF19
 -->
