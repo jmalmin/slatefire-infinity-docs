@@ -212,7 +212,7 @@ Or you can compile it from source with these steps:
     #example:
     10.0.0.111 lxcentos1
 
-> **Basic install is complete at this point for master server.**
+
 
 ----------
 
@@ -221,5 +221,5 @@ Or you can compile it from source with these steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0MzI2NzldfQ==
+eyJoaXN0b3J5IjpbLTIwMDE4MjgxNDBdfQ==
 -->
