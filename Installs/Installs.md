@@ -219,11 +219,12 @@ Or you can compile it from source with these steps:
 **Python 3.5.2 install**
 
  1. Move to the rpm folder inside repo.
- 2. `enter code here`
+
+	     cd ~/repo/rundeck_repo/linux/python
 
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNzIxMDEzNV19
+eyJoaXN0b3J5IjpbMTI2MTc0NjQ1MF19
 -->
