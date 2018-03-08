@@ -241,10 +241,13 @@ Or you can compile it from source with these steps:
 
 **Pip 3.5 install**
 
- 1. find the pip install directory
+ 1. Navigate to pip repo folder
  
 
+		cd ~/apps/rundeck_repo/linux/pip
 
+		yum -y install ius-release-1.0-15.ius.centos7.noarch.rpm
+		
 		sudo yum -y update
 
 		sudo yum -y install python35u-pip-9.0.1-1.ius.centos7.noarch.rpm python35u-devel-3.5.4-1.ius.centos7.x86_64.rpm
@@ -252,5 +255,5 @@ Or you can compile it from source with these steps:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MDM2NjE1MF19
+eyJoaXN0b3J5IjpbLTEzOTc1NzMwODddfQ==
 -->
