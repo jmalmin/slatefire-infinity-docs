@@ -56,11 +56,7 @@ The Master server will need software installed to support the ability for it to 
 	       yum install tcl
 
  6. Install the "expect" package using the below commands
- 8. s
- 
- 
-3) Install the "expect" package using the below commands
-  
+
 
        tar -zxvf expectx.xx.tar.gz
        ./configure
@@ -347,5 +343,5 @@ This directory is typically called rundeck_src. or <env name> in example below.
 	-rwxrwxr-x. 1 root root 7136049 Jun 9 17:47 geckodriver
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NTQ3MDkxMF19
+eyJoaXN0b3J5IjpbLTE2MTY2Njc0MzhdfQ==
 -->
