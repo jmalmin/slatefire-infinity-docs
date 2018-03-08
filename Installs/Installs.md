@@ -61,14 +61,14 @@ Or you can compile it from source with these steps:
        # ./configure
        # make
        # make install
-**Repo configure**
+**Rundeck transfer to master server**
 
  1. Place rundeck_licensed.tar in the following folder.
 
-		scp rundeck_licen~/repo
+		scp rundeck_licensed.tar username@lxcentosmaster:~/repo
 
  2.  Rundeck port can be configured in the following file:
- 3. start_stop_rundeck.sh
+			 start_stop_rundeck.sh
 
 		
 		vi start_stop_runeck.sh
@@ -147,5 +147,5 @@ Or you can compile it from source with these steps:
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjgyODMxMDNdfQ==
+eyJoaXN0b3J5IjpbNzg1NjcyMDQwXX0=
 -->
