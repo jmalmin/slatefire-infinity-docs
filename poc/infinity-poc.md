@@ -1,5 +1,9 @@
 # Infinity  POC
 
+## Test Automated Installation
+
+ 1. List item
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0Nzg4NTY1OF19
+eyJoaXN0b3J5IjpbLTUyMDQyMzMyXX0=
 -->
