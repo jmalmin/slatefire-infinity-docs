@@ -5,9 +5,9 @@
  1. Create a master copy of a sample IBM TRIRIGA installation
 (“Master Copy”) on the Source VM.
 
-Master server will need to have a copy of Tririga created 
+The infinity installation has the ability to
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MzE5ODQ1Ml19
+eyJoaXN0b3J5IjpbMjg1OTA5OTEyLDEyOTMxOTg0NTJdfQ==
 -->
