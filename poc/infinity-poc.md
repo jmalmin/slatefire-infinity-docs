@@ -10,12 +10,10 @@ Slate Fire IPA software will reduce man hours and associated costs significantly
 
  - IPA software - Cost reduced for patching. Remove human errors and add improved repeatability.
 
- - IPA software - Reduce  customer downtime is minimal due to automation of the installation process. IPA software automation is exponentially faster than manual installs.
+ - IPA software - Reduce  customer downtime MTTR is reduced and automation installation is exponentially faster than manual installs.
 
  - IPA software will be reliably released at any time and provide the ability to recover from disasters.
-
- - ISS can affect business market share directly by implementing DevOps tools. Competitors are moving fast to increase speed of product delivery with DevOps. IPA will reduce waste, rework and minimize MTTR.  Projects will focus on work in progress (WIP) and IPA will maintain system stability.
-
+ -
  - IPA provides continuous environment feedback to all parties and tracks changes and trends. Solve problems quickly, fix issues as they occur and stay on top of customers needs with Installation Process Automated.
 
 
@@ -106,5 +104,5 @@ Slate Fire IPA software will reduce man hours and associated costs significantly
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NTg1MTgxMSwxMjkzMTk4NDUyXX0=
+eyJoaXN0b3J5IjpbLTEzNTYzNzY3MCwxMjkzMTk4NDUyXX0=
 -->
