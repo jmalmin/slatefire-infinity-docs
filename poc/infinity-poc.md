@@ -16,7 +16,11 @@ Slate Fire INFINITY software will reduce man hours and associated costs signific
 
  - IPA software will be reliably released at any time and provide the ability to recover from disasters.
  - IPA software - provides continuous environment feedback to all parties and tracks changes and trends. 
- - OPA software - 
+ - OPA software - Automated migration of packages from source to destination server(s).
+- OPA software - Ability to create object migration from database and then trigger export from source Tririga.
+- OPA software - Export to destination servers and automatic installs are possible.
+- OPA software -
+- OPA software -
 
 > Solve problems quickly, fix issues as they occur and stay on top of
 > customers needs with Installation Process Automated.
@@ -110,5 +114,5 @@ Slate Fire INFINITY software will reduce man hours and associated costs signific
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc5OTM5NTY0LDEyOTMxOTg0NTJdfQ==
+eyJoaXN0b3J5IjpbMTg4MTU4MTkwNSwxMjkzMTk4NDUyXX0=
 -->
