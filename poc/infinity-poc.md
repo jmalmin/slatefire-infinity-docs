@@ -1,8 +1,8 @@
-# Business process flow
+## Business process flow
 
-## Product overview
+### Product overview
 
-## IPA
+**IPA**
 
  - IPA software creates a Tririga deliverable that is delivered from the master server to slave servers.  After implementation, IPA will continuously monitor installations, resolve errors, and send notifications to authorized administrators.
  - IPA allows automation of the Tririga installation process and includes more frequent updates to the database.
@@ -31,6 +31,8 @@
   -  Updates are provided for each Tririga Application and Platform
    version update.
 
+I
+
 ### Automated Install
 
  1. Create a master copy of a sample IBM TRIRIGA installation
@@ -38,5 +40,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzODIwNTQzLDEyOTMxOTg0NTJdfQ==
+eyJoaXN0b3J5IjpbLTEzMTg4NTAwNDYsMTI5MzE5ODQ1Ml19
 -->
