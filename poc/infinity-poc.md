@@ -34,7 +34,7 @@
   -  ØReports are generated and emailed to Admins (Excel, Birt, and
    Tableau reports available).
    
-   ØUpdates are provided for each Tririga Application and Platform
+  -  ØUpdates are provided for each Tririga Application and Platform
    version update.
 
 ### Automated Install
@@ -44,5 +44,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTE4NDE0OCwxMjkzMTk4NDUyXX0=
+eyJoaXN0b3J5IjpbLTI5MzMxNTYwOSwxMjkzMTk4NDUyXX0=
 -->
