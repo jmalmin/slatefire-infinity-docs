@@ -20,21 +20,15 @@
 **Fireball**
 
  - ØMonitor developer modifications across all objects.
-   
-  -  ØTime tracking for developers working in Tririga.
-   
-  -  ØMonitor object customization growth over time which allows forward
+  - Time tracking for developers working in Tririga.
+  -  Monitor object customization growth over time which allows forward
    planning.
-   
-   - ØWorkflow process monitoring during heavy loads to assess and manage
+   - Workflow process monitoring during heavy loads to assess and manage
    performance.
-   
-   - ØMonitor external staging databases.
-   
-  -  ØReports are generated and emailed to Admins (Excel, Birt, and
+   - Monitor external staging databases.
+  -  Reports are generated and emailed to Admins (Excel, Birt, and
    Tableau reports available).
-   
-  -  ØUpdates are provided for each Tririga Application and Platform
+  -  Updates are provided for each Tririga Application and Platform
    version update.
 
 ### Automated Install
@@ -44,5 +38,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzMxNTYwOSwxMjkzMTk4NDUyXX0=
+eyJoaXN0b3J5IjpbLTE5MDM0NTkyNTcsMTI5MzE5ODQ1Ml19
 -->
