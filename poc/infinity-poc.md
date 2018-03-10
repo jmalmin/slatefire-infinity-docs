@@ -35,7 +35,7 @@ Slate Fire **INFINITY** software will reduce man hours and associated costs sign
       -  Reduce the many man hours spent working in your environments as you analyse the objects that are modified by your developers. This will allow your team to adjust project timelines and realize actual development
     time expected for each customization going further.
       -  Business Logic evaluation by INFINITY will identify and reinstall all customization to your Tririga systems during upgrades. Each module can be informed by INFINITY to complete its individual jobs. If INFINITY is not configured to be aware of trending status of modules and process there is no 'Business logic evaluation'.
-      -  INFINITY can capture snapshots at the start of the project and multiple times throughout the DevOps cycle and know the QA status over time. This is helpful for OPA and 100% before Migration
+      -  INFINITY can capture snapshots at the start of the project and multiple times throughout the DevOps cycle and know the QA status over time. This is helpful for 100% before Migration
 
  2. INFINITY Deployment Benefits:
  
@@ -103,5 +103,5 @@ Slate Fire **INFINITY** software will reduce man hours and associated costs sign
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NzA3MzM2OCwxMjkzMTk4NDUyXX0=
+eyJoaXN0b3J5IjpbLTcyNDIxODk5MywxMjkzMTk4NDUyXX0=
 -->
