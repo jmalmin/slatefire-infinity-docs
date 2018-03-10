@@ -8,9 +8,9 @@ Slate Fire IPA software will reduce man hours and associated costs significantly
 
  - IPA software - Installation team members can redirect focus to projects and support issues in the Tririga system rather than manual installations.
 
- - IPA software - Costs of each installation or patch will be greatly reduced while removing human errors and adding improved repeatability.
+ - IPA software - Cost reduced for patching. Remove human errors and add improved repeatability.
 
- - Customer downtime is minimal due to automation of the installation process. IPA software automation is exponentially faster than manual installs.
+ - IPA software - Reduce  customer downtime is minimal due to automation of the installation process. IPA software automation is exponentially faster than manual installs.
 
  - IPA software will be reliably released at any time and provide the ability to recover from disasters.
 
@@ -106,5 +106,5 @@ Slate Fire IPA software will reduce man hours and associated costs significantly
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTM0MDQxNSwxMjkzMTk4NDUyXX0=
+eyJoaXN0b3J5IjpbLTI1NTg1MTgxMSwxMjkzMTk4NDUyXX0=
 -->
