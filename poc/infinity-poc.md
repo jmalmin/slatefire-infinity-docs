@@ -1,27 +1,16 @@
 ## Product overview
 
 
-Slate Fire INFINITY software will reduce man hours and associated costs significantly by automating the installation process, scheduling code migrations, comparing and verifying quality assurance and giving system project metrics to product owners. Product owners will make better decisions with INFINITY installed. Trend analysis will show the value of INFINITY over time and remove mistakes that are costly to project teams on day one.
+Slate Fire **INFINITY** software will reduce man hours and associated costs significantly by automating the installation process, scheduling code migrations, comparing and verifying quality assurance and giving system project metrics to product owners. Product owners will make better decisions with INFINITY installed. Trend analysis will show the value of INFINITY over time and remove mistakes that are costly to project teams on day one.
 
 > “I’ve learned that mistakes can often be as good a teacher as success.”  
 – Jack Welch, chairman and CEO General Electric
 
  The current Tririga installation process is manual and requires multiple teams and many hours to complete each environment. Simplify this process for your teams with IPA. Scheduling object migrations between environments gives project teams the ability to focus on *work in progress*. Creating amazing functionality for the product owners will be the task of your current professional services teams with INFINITY configured and running OPA. Additionally the metrics(Fireball) for all activities related to Tririga are easily understood and reported to all team members using Sapphire reporting.
 
- - IPA software - Installation team members can redirect focus to projects and support issues in the Tririga system rather than manual installations.
-
- - IPA software - Cost reduced for patching. Remove human errors and add improved repeatability.
-
- - IPA software - Reduce  customer downtime MTTR is reduced and automation installation is exponentially faster than manual installs.
-
- - IPA software will be reliably released at any time and provide the ability to recover from disasters.
- - IPA software - provides continuous environment feedback to all parties and tracks changes and trends. 
- - OPA software - Automated migration of packages from source to destination server(s).
-- OPA software - Ability to create object migration from database and then trigger export from source Tririga.
-- OPA software - Export to destination servers and automatic installs are possible.
-- OPA software -
-- OPA software -
-
+ - **IPA** software - Installation team members can redirect focus to projects and support issues in the Tririga system rather than manual installations.
+ - **OPA** software - Automated migration of packages from source to destination server(s).
+ 
 > Solve problems quickly, fix issues as they occur and stay on top of
 > customers needs with Installation Process Automated.
 > 
@@ -114,5 +103,5 @@ Slate Fire INFINITY software will reduce man hours and associated costs signific
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTU4MTkwNSwxMjkzMTk4NDUyXX0=
+eyJoaXN0b3J5IjpbMTE0MjIzMDY2NSwxMjkzMTk4NDUyXX0=
 -->
