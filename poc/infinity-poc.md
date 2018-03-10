@@ -79,6 +79,7 @@
       -  Leverage modern Dev practices
       -  Improve visibility and governance
 
+
 ### Automated Install
 
  1. Create a master copy of a sample IBM TRIRIGA installation
@@ -86,5 +87,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDExODk4MiwxMjkzMTk4NDUyXX0=
+eyJoaXN0b3J5IjpbLTEyMjY0ODYzMjQsMTI5MzE5ODQ1Ml19
 -->
