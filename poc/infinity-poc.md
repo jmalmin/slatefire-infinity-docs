@@ -45,10 +45,10 @@
 
 **Infinity**
 
-> Blockquote
+> ##### INFINITY makes releases easy, reliable and reduces overall cost.
 
 
- 1. INFINITY and Modules combined Benefits:
+ - **INFINITY and Modules combined Benefits:**
      -  ISS can achieve a built-in DevOps environment that does not require
     hours of meetings and staff time to manage.
       -  Your Tririga team can simply control Tririga processes from one place and know what is happening at all times.
@@ -61,6 +61,7 @@
       -  Business Logic evaluation identifies and reinstalls all customizations to your Tririga systems during upgrades.
       -  ISS can take a snapshot at the start of the project and multiple times throughout the DevOps cycle and know the QA is at
     100% before Migration
+ - List item
 
 ### Automated Install
 
@@ -69,5 +70,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzU4NzQ2OSwxMjkzMTk4NDUyXX0=
+eyJoaXN0b3J5IjpbODA0ODEyOTQ0LDEyOTMxOTg0NTJdfQ==
 -->
