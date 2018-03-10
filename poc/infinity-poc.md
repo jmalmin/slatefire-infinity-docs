@@ -1,7 +1,7 @@
 ## Product overview
 
 
-Slate Fire INFINITY software will reduce man hours and associated costs significantly by automating the installation process, scheduling code migrations, comparing and verifying quality assurance and giving system project metrics to product owners. Product owners will make better decisions with INFINTY installed. Trend analysis will show the value of INFINITY and remove mistakes and 
+Slate Fire INFINITY software will reduce man hours and associated costs significantly by automating the installation process, scheduling code migrations, comparing and verifying quality assurance and giving system project metrics to product owners. Product owners will make better decisions with INFINTY installed. Trend analysis will show the value of INFINITY and remove mistakes tha
 
 > “I’ve learned that mistakes can often be as good a teacher as success.”  
 – Jack Welch, chairman and CEO General Electric
@@ -109,5 +109,5 @@ Slate Fire INFINITY software will reduce man hours and associated costs signific
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MjA0MTQ2MiwxMjkzMTk4NDUyXX0=
+eyJoaXN0b3J5IjpbMzM4NTYxNzA0LDEyOTMxOTg0NTJdfQ==
 -->
