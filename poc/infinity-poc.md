@@ -13,7 +13,6 @@ Slate Fire IPA software will reduce man hours and associated costs significantly
  - IPA software - Reduce  customer downtime MTTR is reduced and automation installation is exponentially faster than manual installs.
 
  - IPA software will be reliably released at any time and provide the ability to recover from disasters.
- -
  - IPA provides continuous environment feedback to all parties and tracks changes and trends. Solve problems quickly, fix issues as they occur and stay on top of customers needs with Installation Process Automated.
 
 
@@ -104,5 +103,5 @@ Slate Fire IPA software will reduce man hours and associated costs significantly
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTYzNzY3MCwxMjkzMTk4NDUyXX0=
+eyJoaXN0b3J5IjpbLTEzNTkwNTk4OSwxMjkzMTk4NDUyXX0=
 -->
