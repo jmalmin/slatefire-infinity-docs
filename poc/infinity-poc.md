@@ -17,6 +17,25 @@
  - Multiple projects are manually reviewed, if needed, before import in destination server.
  - Updates to OPA are provided for each Tririga Application and Platform version update. 
 
+**Fireball**
+
+ - ØMonitor developer modifications across all objects.
+   
+   ØTime tracking for developers working in Tririga.
+   
+   ØMonitor object customization growth over time which allows forward
+   planning.
+   
+   ØWorkflow process monitoring during heavy loads to assess and manage
+   performance.
+   
+   ØMonitor external staging databases.
+   
+   ØReports are generated and emailed to Admins (Excel, Birt, and
+   Tableau reports available).
+   
+   ØUpdates are provided for each Tririga Application and Platform
+   version update.
 
 ### Automated Install
 
@@ -25,5 +44,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzc4MTM0MCwxMjkzMTk4NDUyXX0=
+eyJoaXN0b3J5IjpbLTEyMTc2ODU0MzksMTI5MzE5ODQ1Ml19
 -->
