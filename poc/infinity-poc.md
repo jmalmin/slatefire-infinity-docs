@@ -12,10 +12,9 @@ Slate Fire **INFINITY** software will reduce man hours and associated costs sign
  - **OPA** software - Automated migration of packages from source to destination server(s).
  - **Fireball** software - Monitor developer and system modification across all objects.
  - **Sapphire** - Reporting for all INFINITY modules and more.
- - 
  
 > Solve problems quickly, fix issues as they occur and stay on top of
-> customers needs with Installation Process Automated.
+> customers needs with INFINITY and all modules configuration.
 > 
 
 
@@ -106,5 +105,5 @@ Slate Fire **INFINITY** software will reduce man hours and associated costs sign
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MDY4ODc1LDEyOTMxOTg0NTJdfQ==
+eyJoaXN0b3J5IjpbLTEzMDkxMzI4NCwxMjkzMTk4NDUyXX0=
 -->
