@@ -31,9 +31,7 @@
   -  Updates are provided for each Tririga Application and Platform
    version update.
 
-**Infinity**
-
-
+ 
 **Sapphire**
 
   -  Sapphire reporting reduces the need for multiple query requests.
@@ -45,6 +43,9 @@
   -  Reports are generated and emailed to Admins (Excel, Birt, and Tableau reports available).
   -  Updates are provided for each Tririga Application and Platform version update.
 
+**Infinity**
+
+ 1. Comparison checker
 
 ### Automated Install
 
@@ -53,5 +54,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzMTE5MjYzLDEyOTMxOTg0NTJdfQ==
+eyJoaXN0b3J5IjpbLTE3OTI3NDIzNzYsMTI5MzE5ODQ1Ml19
 -->
