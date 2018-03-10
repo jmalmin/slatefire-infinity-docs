@@ -50,8 +50,7 @@
   -  The amount of data and processes managed by INFINITY is truly INFINITE!
   -  There are no limits to the systems abilities if the projects are controlled and allowed to be continuously running and planned based on analysis reporting and metrics.
   -  ISS can know how many man hours are spent working in your environments and what objects are modified by your developers. This allows to adjust project timelines and realize actual development time expected for each customization.
-
-ØBusiness Logic evaluation identifies and reinstalls all customizations to your Tririga systems during upgrades.
+  -  Business Logic evaluation identifies and reinstalls all customizations to your Tririga systems during upgrades.
 
 ØISS can take a snapshot at the start of the project and multiple times throughout the DevOps cycle and know the QA is at 100% before Migration
 
@@ -62,5 +61,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MTY5MTQ4LDEyOTMxOTg0NTJdfQ==
+eyJoaXN0b3J5IjpbLTEwNjA0NTc4MSwxMjkzMTk4NDUyXX0=
 -->
