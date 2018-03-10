@@ -21,12 +21,12 @@
 
  - ØMonitor developer modifications across all objects.
    
-   ØTime tracking for developers working in Tririga.
+  -  ØTime tracking for developers working in Tririga.
    
-   ØMonitor object customization growth over time which allows forward
+  -  ØMonitor object customization growth over time which allows forward
    planning.
    
-   ØWorkflow process monitoring during heavy loads to assess and manage
+   - ØWorkflow process monitoring during heavy loads to assess and manage
    performance.
    
    ØMonitor external staging databases.
@@ -44,5 +44,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTc2ODU0MzksMTI5MzE5ODQ1Ml19
+eyJoaXN0b3J5IjpbODE3NjIzMDI4LDEyOTMxOTg0NTJdfQ==
 -->
