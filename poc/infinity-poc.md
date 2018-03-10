@@ -6,7 +6,7 @@ Slate Fire INFINITY software will reduce man hours and associated costs signific
 > “I’ve learned that mistakes can often be as good a teacher as success.”  
 – Jack Welch, chairman and CEO General Electric
 
- The current Tririga installation process is manual and requires multiple teams and many hours to complete each environment. Simplify this process for your teams with IPA. Scheduling object migrations between environments gives project teams the ability to focus on *work in progress*. Creating amazing functionality for the product owners will be the task of your current professional services teams with INFINITY configured and running OPA. Additionally the metrics(Fireball) for all activities related to Tririga are easily understood and reported to all team members using Sapphire.
+ The current Tririga installation process is manual and requires multiple teams and many hours to complete each environment. Simplify this process for your teams with IPA. Scheduling object migrations between environments gives project teams the ability to focus on *work in progress*. Creating amazing functionality for the product owners will be the task of your current professional services teams with INFINITY configured and running OPA. Additionally the metrics(Fireball) for all activities related to Tririga are easily understood and reported to all team members using Sapphire reporting.
 
  - IPA software - Installation team members can redirect focus to projects and support issues in the Tririga system rather than manual installations.
 
@@ -16,6 +16,7 @@ Slate Fire INFINITY software will reduce man hours and associated costs signific
 
  - IPA software will be reliably released at any time and provide the ability to recover from disasters.
  - IPA software - provides continuous environment feedback to all parties and tracks changes and trends. 
+ - OPA software - 
 
 > Solve problems quickly, fix issues as they occur and stay on top of
 > customers needs with Installation Process Automated.
@@ -109,5 +110,5 @@ Slate Fire INFINITY software will reduce man hours and associated costs signific
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDMxNjE5NywxMjkzMTk4NDUyXX0=
+eyJoaXN0b3J5IjpbMjc5OTM5NTY0LDEyOTMxOTg0NTJdfQ==
 -->
