@@ -70,6 +70,15 @@
       -  50% reduction in escalations
       -  55% reduction of overall support costs
 
+ 3. INFINITY Operations Benefits:
+ 
+      -  Scale your labor and reduce costs
+      -  Create standard operating procedures
+      -  Safely delegate operations tasks
+      -  Easy to extend and integrate
+      -  Leverage modern Dev practices
+      -  Improve visibility and governance
+
 ### Automated Install
 
  1. Create a master copy of a sample IBM TRIRIGA installation
@@ -77,5 +86,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MzEyNjU5OSwxMjkzMTk4NDUyXX0=
+eyJoaXN0b3J5IjpbLTcxMDExODk4MiwxMjkzMTk4NDUyXX0=
 -->
