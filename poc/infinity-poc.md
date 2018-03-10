@@ -6,9 +6,9 @@ Slate Fire IPA software will reduce man hours and associated costs significantly
 
  The current Tririga installation process is manual and requires multiple teams and many hours to complete each environment. Simplify this process for your teams with IPA. Scheduling object migrations between environments gives project teams the ability to focus on *work in progress*. Creating amazing functionality for the product owners will be the task of your current professional services teams with INFINITY configured and running OPA. Additionally the metrics(Fireball) for all activities related to Tririga are easily understood and reported to all team members using Sapphire.
 
- - IPA software reduces the impact on existing ISS teams who currently perform manual installs. Installation team members can redirect focus to projects and support issues in the Tririga system rather than manual installations.
+ - IPA software - Installation team members can redirect focus to projects and support issues in the Tririga system rather than manual installations.
 
- - Costs of each installation or patch will be greatly reduced while removing human errors and adding improved repeatability.
+ - IPA software - Costs of each installation or patch will be greatly reduced while removing human errors and adding improved repeatability.
 
  - Customer downtime is minimal due to automation of the installation process. IPA software automation is exponentially faster than manual installs.
 
@@ -106,5 +106,5 @@ Slate Fire IPA software will reduce man hours and associated costs significantly
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NzMwMTkzOCwxMjkzMTk4NDUyXX0=
+eyJoaXN0b3J5IjpbMTc2OTM0MDQxNSwxMjkzMTk4NDUyXX0=
 -->
