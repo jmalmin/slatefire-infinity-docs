@@ -20,6 +20,44 @@ Slate Fire **INFINITY** software will reduce man hours and associated costs sign
 
 ### Business process flow
 
+
+**INFINITY**
+
+> ##### INFINITY makes releases easy, reliable and reduces overall cost.
+
+ 1. INFINITY and Modules combined Benefits:
+
+     -  Achieve a built-in DevOps environment that does not require
+    hours of meetings and staff time to manage.
+      -  Your Tririga team can simply control Tririga processes from one place and know what is happening at all times.
+      -  The amount of data and processes managed by INFINITY is truly INFINITE!
+      -  There are no limits to the systems abilities if the projects are controlled and allowed to be continuously running and planned
+    based on analysis reporting and metrics.
+      -  ISS can know how many man hours are spent working in your environments and what objects are modified by your developers. This
+    allows to adjust project timelines and realize actual development
+    time expected for each customization.
+      -  Business Logic evaluation identifies and reinstalls all customizations to your Tririga systems during upgrades.
+      -  ISS can take a snapshot at the start of the project and multiple times throughout the DevOps cycle and know the QA is at
+    100% before Migration
+
+ 2. INFINITY Deployment Benefits:
+ 
+      -  Enabled new incident response model
+      -  Ops-controlled access and security policy
+      -  90% reduction in MTTR
+      -  50% reduction in escalations
+      -  55% reduction of overall support costs
+
+ 3. INFINITY Operations Benefits:
+ 
+      -  Scale your labor and reduce costs
+      -  Create standard operating procedures
+      -  Safely delegate operations tasks
+      -  Easy to extend and integrate
+      -  Leverage modern Dev practices
+      -  Improve visibility and governance
+
+
 **IPA**
 
  - IPA software creates a Tririga deliverable that is delivered from the master server to slave servers.  After implementation, IPA will continuously monitor installations, resolve errors, and send notifications to authorized administrators.
@@ -59,44 +97,7 @@ Slate Fire **INFINITY** software will reduce man hours and associated costs sign
   -  Manipulation of large datasets is done on the clients browser.
   -  Reporting can run alone or as a part of Slate Fire INFINITY
   -  Reports are generated and emailed to Admins (Excel, Birt, and Tableau reports available).
-  -  Updates are provided for each Tririga Application and Platform version update.
-
-**Infinity**
-
-> ##### INFINITY makes releases easy, reliable and reduces overall cost.
-
- 1. INFINITY and Modules combined Benefits:
-
-     -  ISS can achieve a built-in DevOps environment that does not require
-    hours of meetings and staff time to manage.
-      -  Your Tririga team can simply control Tririga processes from one place and know what is happening at all times.
-      -  The amount of data and processes managed by INFINITY is truly INFINITE!
-      -  There are no limits to the systems abilities if the projects are controlled and allowed to be continuously running and planned
-    based on analysis reporting and metrics.
-      -  ISS can know how many man hours are spent working in your environments and what objects are modified by your developers. This
-    allows to adjust project timelines and realize actual development
-    time expected for each customization.
-      -  Business Logic evaluation identifies and reinstalls all customizations to your Tririga systems during upgrades.
-      -  ISS can take a snapshot at the start of the project and multiple times throughout the DevOps cycle and know the QA is at
-    100% before Migration
-
- 2. INFINITY Deployment Benefits:
- 
-      -  Enabled new incident response model
-      -  Ops-controlled access and security policy
-      -  90% reduction in MTTR
-      -  50% reduction in escalations
-      -  55% reduction of overall support costs
-
- 3. INFINITY Operations Benefits:
- 
-      -  Scale your labor and reduce costs
-      -  Create standard operating procedures
-      -  Safely delegate operations tasks
-      -  Easy to extend and integrate
-      -  Leverage modern Dev practices
-      -  Improve visibility and governance
-
+  -  Updates are provided for each Tririga Application and Platform version update. 
 
 ### Automated Install
 
@@ -105,5 +106,5 @@ Slate Fire **INFINITY** software will reduce man hours and associated costs sign
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDkxMzI4NCwxMjkzMTk4NDUyXX0=
+eyJoaXN0b3J5IjpbMjEzMzU3ODUzOSwxMjkzMTk4NDUyXX0=
 -->
