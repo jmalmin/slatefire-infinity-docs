@@ -45,7 +45,15 @@
 
 **Infinity**
 
- 1. Comparison checker
+  -  ISS can achieve a built-in DevOps environment that does not require hours of meetings and staff time to manage.
+  -  Your Tririga team can simply control Tririga processes from one place and know what is happening at all times.
+  -  The amount of data and processes managed by INFINITY is truly INFINITE!
+  -  There are no limits to the systems abilities if the projects are controlled and allowed to be continuously running and planned based on analysis reporting and metrics.
+  -  ISS can know how many man hours are spent working in your environments and what objects are modified by your developers. This allows to adjust project timelines and realize actual development time expected for each customization.
+
+ØBusiness Logic evaluation identifies and reinstalls all customizations to your Tririga systems during upgrades.
+
+ØISS can take a snapshot at the start of the project and multiple times throughout the DevOps cycle and know the QA is at 100% before Migration
 
 ### Automated Install
 
@@ -54,5 +62,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTI3NDIzNzYsMTI5MzE5ODQ1Ml19
+eyJoaXN0b3J5IjpbLTI0MTY5MTQ4LDEyOTMxOTg0NTJdfQ==
 -->
