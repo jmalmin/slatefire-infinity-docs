@@ -14,8 +14,9 @@
  - Automated migration of packages from source to destination server(s).
  - Ability to create object migration from database and then trigger export from source Tririga.
  - Export to destination servers and automatic installs are possible.
- - Multiple projects are reviewed, if needed, before import in destination server.
+ - Multiple projects are manually reviewed, if needed, before import in destination server.
  - Updates to OMA are provided for each Tririga Application and Platform version update. 
+
 
 ### Automated Install
 
@@ -24,5 +25,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5ODY2MzQ3NiwxMjkzMTk4NDUyXX0=
+eyJoaXN0b3J5IjpbNzExNjk0MDcsMTI5MzE5ODQ1Ml19
 -->
