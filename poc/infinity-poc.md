@@ -11,6 +11,12 @@
  - Automation of the installation process using a continuous delivery approach ensures reliably released software at any time and provides the ability to recover from disasters.
  
 **OPA**
+ - Automated migration of packages from source to destination server(s).
+ - Ability to create object migration from database and then trigger export from source Tririga.
+ - Export to destination servers and automatic installs are possible.
+ - Multiple projects are reviewed, if needed, before import in destination server.
+ - Updates to OMA are provided for each Tririga Application and Platform version update. 
+
 ### Automated Install
 
  1. Create a master copy of a sample IBM TRIRIGA installation
@@ -18,5 +24,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDc4ODYyMzUsMTI5MzE5ODQ1Ml19
+eyJoaXN0b3J5IjpbMTE5ODY2MzQ3NiwxMjkzMTk4NDUyXX0=
 -->
