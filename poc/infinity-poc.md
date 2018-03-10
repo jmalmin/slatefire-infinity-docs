@@ -2,19 +2,19 @@
 
 Our product rocks!!
 
- - Slate Fire IPA software will reduce man hours and associated costs significantly by automating the installation process. The current Tririga installation process is manual and requires 15 hours to complete each environment.
+ - Slate Fire IPA software will reduce man hours and associated costs significantly by automating the installation process, scheduling code migration. The current Tririga installation process is manual and requires 15 hours to complete each environment.
 
  - IPA software reduces the impact on existing ISS teams who currently perform manual installs. Installation team members can redirect focus to projects and support issues in the Tririga system rather than manual installations.
 
-ØCosts of each installation or patch will be greatly reduced while removing human errors and adding improved repeatability.
+ - Costs of each installation or patch will be greatly reduced while removing human errors and adding improved repeatability.
 
-ØCustomer downtime is minimal due to automation of the installation process. IPA software automation is exponentially faster than manual installs.
+ - Customer downtime is minimal due to automation of the installation process. IPA software automation is exponentially faster than manual installs.
 
-ØIPA software will be reliably released at any time and provide the ability to recover from disasters.
+ - IPA software will be reliably released at any time and provide the ability to recover from disasters.
 
-ØISS can affect business market share directly by implementing DevOps tools. Competitors are moving fast to increase speed of product delivery with DevOps. IPA will reduce waste, rework and minimize MTTR.  Projects will focus on work in progress (WIP) and IPA will maintain system stability.
+ - ISS can affect business market share directly by implementing DevOps tools. Competitors are moving fast to increase speed of product delivery with DevOps. IPA will reduce waste, rework and minimize MTTR.  Projects will focus on work in progress (WIP) and IPA will maintain system stability.
 
-ØIPA provides continuous environment feedback to all parties and tracks changes and trends. Solve problems quickly, fix issues as they occur and stay on top of customers needs with Installation Process Automated.
+ - IPA provides continuous environment feedback to all parties and tracks changes and trends. Solve problems quickly, fix issues as they occur and stay on top of customers needs with Installation Process Automated.
 
 
 ### Business process flow
@@ -104,5 +104,5 @@ Our product rocks!!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODc4NTk3OCwxMjkzMTk4NDUyXX0=
+eyJoaXN0b3J5IjpbLTIwODYzNDMxMTYsMTI5MzE5ODQ1Ml19
 -->
