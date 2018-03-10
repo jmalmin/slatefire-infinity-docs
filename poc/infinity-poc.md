@@ -37,19 +37,12 @@
 **Sapphire**
 
   -  Sapphire reporting reduces the need for multiple query requests.
-
   -  Our reporting does client side data manipulation.
-
   -  Users access Tririga system and the values they return are cached in their browser in JavaScript objects.
-
   -  This allows for decreased chatter between clients and Tririga.
-
   -  Manipulation of large datasets is done on the clients browser.
-
   -  Reporting can run alone or as a part of Slate Fire INFINITY
-
   -  Reports are generated and emailed to Admins (Excel, Birt, and Tableau reports available).
-
   -  Updates are provided for each Tririga Application and Platform version update.
 
 
@@ -60,5 +53,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQwNzIyMDQ5LDEyOTMxOTg0NTJdfQ==
+eyJoaXN0b3J5IjpbNzQxMzc2OTIzLDEyOTMxOTg0NTJdfQ==
 -->
