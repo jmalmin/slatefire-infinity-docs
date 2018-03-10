@@ -29,9 +29,9 @@
    - ØWorkflow process monitoring during heavy loads to assess and manage
    performance.
    
-   ØMonitor external staging databases.
+   - ØMonitor external staging databases.
    
-   ØReports are generated and emailed to Admins (Excel, Birt, and
+  -  ØReports are generated and emailed to Admins (Excel, Birt, and
    Tableau reports available).
    
    ØUpdates are provided for each Tririga Application and Platform
@@ -44,5 +44,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE3NjIzMDI4LDEyOTMxOTg0NTJdfQ==
+eyJoaXN0b3J5IjpbMjA4MTE4NDE0OCwxMjkzMTk4NDUyXX0=
 -->
