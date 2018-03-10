@@ -1,7 +1,7 @@
 ## Business process flow
 
 ### Product overview
- ![enter image description here](https://github.com/jmalmin/slatefire-infinity-docs/blob/master/img/stack-server-black.png?raw=true)
+![enter image description here](https://github.com/jmalmin/slatefire-infinity-docs/blob/master/img/stack-server-black.png?raw=true)
 **IPA**
 
  - IPA software creates a Tririga deliverable that is delivered from the master server to slave servers.  After implementation, IPA will continuously monitor installations, resolve errors, and send notifications to authorized administrators.
@@ -53,5 +53,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzOTM0OTQwNCwxMjkzMTk4NDUyXX0=
+eyJoaXN0b3J5IjpbMTAxMDM5NDQ2LDEyOTMxOTg0NTJdfQ==
 -->
