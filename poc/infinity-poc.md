@@ -19,7 +19,7 @@
 
 **Fireball**
 
- - ØMonitor developer modifications across all objects.
+ - Monitor developer modifications across all objects.
   - Time tracking for developers working in Tririga.
   -  Monitor object customization growth over time which allows forward
    planning.
@@ -53,5 +53,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxMzc2OTIzLDEyOTMxOTg0NTJdfQ==
+eyJoaXN0b3J5IjpbODIzMTE5MjYzLDEyOTMxOTg0NTJdfQ==
 -->
