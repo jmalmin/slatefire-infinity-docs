@@ -34,7 +34,7 @@ Slate Fire **INFINITY** software will reduce man hours and associated costs sign
       -  There are no limits to the systems abilities, the projects can control and allow it to be continuously running on a planned basis and enjoy analysis reporting and metrics for each team members activities.
       -  Reduce the many man hours spent working in your environments as you analyse the objects that are modified by your developers. This will allow your team to adjust project timelines and realize actual development
     time expected for each customization going further.
-      -  Business Logic evaluation by INFINITY will identify and reinstall all customization to your Tririga systems during upgrades. Each module can be informed by INFINITY to complete its individual ability
+      -  Business Logic evaluation by INFINITY will identify and reinstall all customization to your Tririga systems during upgrades. Each module can be informed by INFINITY to complete its individual ability 
       -  ISS can take a snapshot at the start of the project and multiple times throughout the DevOps cycle and know the QA is at
     100% before Migration
 
@@ -104,5 +104,5 @@ Slate Fire **INFINITY** software will reduce man hours and associated costs sign
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODc3MjA4MSwxMjkzMTk4NDUyXX0=
+eyJoaXN0b3J5IjpbLTE0MDEwMTI5LDEyOTMxOTg0NTJdfQ==
 -->
