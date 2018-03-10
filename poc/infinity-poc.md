@@ -62,6 +62,7 @@ Slate Fire **INFINITY** software will reduce man hours and associated costs sign
  - IPA enables rapid deployment of Tririga across multiple servers.
  - Includes the ability to run ad hoc jobs or scheduled jobs using tools such as Rundeck or Jenkins to control the environments from one location.
  - Automation of the installation process using a continuous delivery approach ensures reliably released software at any time and provides the ability to recover from disasters.
+ -  - Updates to IPA are provided for each Tririga Application and Platform version update. 
  
 **OPA**
  - OPA is automated migration of packages from source to destination server(s).
@@ -82,6 +83,7 @@ Slate Fire **INFINITY** software will reduce man hours and associated costs sign
    Tableau reports available).
   -  Updates are provided for each Tririga Application and Platform
    version update.
+    - Updates to Fireball are provided for each Tririga Application and Platform version update. 
 
  
 **Sapphire**
@@ -93,7 +95,7 @@ Slate Fire **INFINITY** software will reduce man hours and associated costs sign
   -  Manipulation of large datasets is done on the clients browser.
   -  Reporting can run alone or as a part of Slate Fire INFINITY
   -  Reports are generated and emailed to Admins (Excel, Birt, and Tableau reports available).
-  -  Updates are provided for each Tririga Application and Platform version update. 
+  -  Updates to Sapphire are provided for each Tririga Application and Platform version update. 
 
 ### Automated Install
 
@@ -102,5 +104,5 @@ Slate Fire **INFINITY** software will reduce man hours and associated costs sign
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzOTAxNDAwNiwxMjkzMTk4NDUyXX0=
+eyJoaXN0b3J5IjpbLTEzNjA4NzQ1NDcsMTI5MzE5ODQ1Ml19
 -->
