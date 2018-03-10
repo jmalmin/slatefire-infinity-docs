@@ -31,8 +31,7 @@ Slate Fire **INFINITY** software will reduce man hours and associated costs sign
     hours of meetings and staff time to manage.
       -  Your Tririga team can simply control Tririga processes from one place and know what is happening at all times.
       -  The amount of data and processes managed by INFINITY is truly INFINITE!
-      -  There are no limits to the systems abilities, the projects control and allow it to be continuously running on a planned
-    based on analysis reporting and metrics.
+      -  There are no limits to the systems abilities, the projects can control and allow it to be continuously running on a planned basis and enjoy analysis reporting and metrics for each team members activities.
       -  ISS can know how many man hours are spent working in your environments and what objects are modified by your developers. This
     allows to adjust project timelines and realize actual development
     time expected for each customization.
@@ -106,5 +105,5 @@ Slate Fire **INFINITY** software will reduce man hours and associated costs sign
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzE4MjIxNCwxMjkzMTk4NDUyXX0=
+eyJoaXN0b3J5IjpbLTU4MTE2OTQwNSwxMjkzMTk4NDUyXX0=
 -->
