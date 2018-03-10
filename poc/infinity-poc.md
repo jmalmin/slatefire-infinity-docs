@@ -31,7 +31,7 @@
   -  Updates are provided for each Tririga Application and Platform
    version update.
 
-I
+Infinity
 
 ### Automated Install
 
@@ -40,5 +40,5 @@ I
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTg4NTAwNDYsMTI5MzE5ODQ1Ml19
+eyJoaXN0b3J5IjpbLTkyMDk2MDg0NSwxMjkzMTk4NDUyXX0=
 -->
