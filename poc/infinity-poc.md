@@ -2,7 +2,7 @@
 
 Our product rocks!!
 
- - Slate Fire IPA software will reduce man hours and associated costs significantly by automating the installation process, scheduling code migration and giving project metrics to product owners. The current Tririga installation process is manual and requires 15 hours to complete each environment.
+ - Slate Fire IPA software will reduce man hours and associated costs significantly by automating the installation process, scheduling code migration and giving project metrics to product owners. The current Tririga installation process is manual and requires multiple teams and many hours to complete each environment. Scheduling object migrations between enviornments and metrics for all activities are tools
 
  - IPA software reduces the impact on existing ISS teams who currently perform manual installs. Installation team members can redirect focus to projects and support issues in the Tririga system rather than manual installations.
 
@@ -104,5 +104,5 @@ Our product rocks!!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDg4MTcwNywxMjkzMTk4NDUyXX0=
+eyJoaXN0b3J5IjpbMjEyNjI5ODEyMywxMjkzMTk4NDUyXX0=
 -->
