@@ -4,6 +4,7 @@
 
 
 
+
 ### Automated Install
 
  1. Create a master copy of a sample IBM TRIRIGA installation
@@ -11,5 +12,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNDg2ODA0NywxMjkzMTk4NDUyXX0=
+eyJoaXN0b3J5IjpbMTY4ODExOTA3LDEyOTMxOTg0NTJdfQ==
 -->
