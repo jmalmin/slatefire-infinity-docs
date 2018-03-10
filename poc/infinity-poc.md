@@ -63,7 +63,12 @@
     100% before Migration
 
  2. INFINITY Deployment Benefits:
-
+ 
+      -  Enabled new incident response model
+      -  Ops-controlled access and security policy
+      -  90% reduction in MTTR
+      -  50% reduction in escalations
+      -  55% reduction of overall support costs
 
 ### Automated Install
 
@@ -72,5 +77,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzY4NzIzMzMsMTI5MzE5ODQ1Ml19
+eyJoaXN0b3J5IjpbLTM4MzEyNjU5OSwxMjkzMTk4NDUyXX0=
 -->
