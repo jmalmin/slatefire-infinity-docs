@@ -1,4 +1,4 @@
-**test**
+**FireBall**
 
 This is another test line
 
@@ -7,10 +7,8 @@ This is another test line
 -   Monitor object customization growth over time which allows forward planning.
 -   Workflow process monitoring during heavy loads to assess and manage performance.​
 -   Monitor external staging databases.​
-    
--   Reports are generated and emailed to Admins (Excel, Birt, and Tableau reports available).​
-    
+-   Reports are generated and emailed to Admins (Excel, Birt, and Tableau reports available).
 -   Updates are provided for each Tririga Application and Platform version update.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA5MDA0ODM0XX0=
+eyJoaXN0b3J5IjpbLTc5MDEzNjE4NF19
 -->
