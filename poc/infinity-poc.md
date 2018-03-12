@@ -93,9 +93,9 @@ Explain the rationale behind it such as the expected ROI, the efficiencies predi
  for the software implementation.
 
 
+ The use of infinity software will give you faster release cycles reduce the overall risks of projects and qualitiy insurance. Lower the costs and allow you to create higher-qualiy deployment and products which will ultimately give you a better business advantage.
 
-
-
+ y here are some advantages that you can expect.
 
  1. INFINITY Deployment Benefits:
  
@@ -114,10 +114,84 @@ Explain the rationale behind it such as the expected ROI, the efficiencies predi
       -  Leverage modern Dev practices
       -  Improve visibility and governance
 
+**Demo**
+
+ let's start with an example deployme o of the infinity syste I In our example we will simula w wi a a master server and two node T The first note will be a windo c Comput t the second will be a Len s Syst w whi i it does not matter  t the master server  o  h hey Windows system or A limit syst o or are examp w we will u c clinics as the master server.
+
+HOur deployme p processes are as follows:
+Plan
+ t the first thing that we would do would be to plan what pow a deployment would look li w we would take in consideration production metrics production objects and get feedback fr m meetings with the product owne w what are the desir p process i to be included in our effort
+
+ c create
+ 
+ software
+ i in this process we would be generati p packag o or archives to be delivered from the master to the known servers
+ c configuration
+ c configuration deploymen s steps would be contained here
+
+ c Coding
+ c code quality
+ q Quality assurance  p possib a and should be included and a p projec a and deliverables
+ p performance
+ p performan m metri a and securi s should always be considered wh w working on an understanding what to do for a given project
+ s software
+ b building 
+ create the deployment packa a and migrating to the nodes
+  Bill performance
+ m metrics generat a and captured during t b build process are sure here
+
+  release candidate
+ An ongoing understanding  w what is being delivered by the software is important.
 
 
+AAcceptance testing
+II get an understanding of what acceptance testing wi m  i is importa c coordination across the te a and unit tests that are easily understood and Cher a are necessary
+ r regression testing
+ PRegression testing after each iteration is important al a again this information to easily shareable a c consiste a and if it all possible a tester of development
+ s security
+ SSecurity and their ability to understand the overall system performan a and activi a and other security concerns and stuffing things
+
+  vulnerability analysis
+  CCareful project consideration of potential vulnerability of the systems  i important to understa s System deployments and failures Candy related  o operating syst d dama a end-users that should not be in there messing stuff into that 
+  
+ PPerformance
+ b baseboa o overall system performance is important
+ c configuration testing
+ CConsistent configuration and testing in reinstallation of softwa w Will verify on a day-to-day basis this is completely running and doing good stuff
+
+ p packaging
+ RRelease court nation
+ p project configuration and management of releases and update to leave for The system  c clearly communicated to all digital users at this current status for releases is important
+ d deploying
+ c consistent project plans a d deployme m monitori a and reporti i it's importa a it has to be agreed upon by project teams
+ p promoting applications
+ p running applications to systems again have to be interested in and concerned about what project teams a c currently doing system
+ f fallback
+ c carefully plann p process for falling back to an earlier version of the system is importa b again the project team would have to be considered and then recorded wi f for this
+ r recovery 
+  DDisaster recovery a o operating system recovery and database recovery and all moving parts of prairie system need to be considered
+ s scheduled releases
+ p product owner and project tea a as well as operations and all development teams need to be able to communicate and understand what the scheduling release would look lik.. Calend m meetin e enter
+
+ c configuration
+ i infrastructure storage
+ o overall system understanding o n network versus versus local vs. doctor versus other syste t that will contain and store the da t security needed to support dad and maintain that system is necessary
+ d database
+  c coordination with the DBAs to make good database decisions and bubb I understanding of their ability  d do  a and database recovery
+ n network
+ u understanding of the network team and its abilities  r recover from systemwide issu a and the ability to communicate to them clearly
+ c clear understanding of provisioning and configuratio f for networking resources a c components
 
 
+ m Monitor
+   CContinued system monitoring for operating system database and business logic processes
+  y user interactions for the tri-review system
+ o overall system response time
+ s System user experience monitoring if at all possible
+ p production metrics
+ c consistent production metri e enter now since possib i interested
+ s statistics
+ s statistics available with the infinity software.
 
 
 
