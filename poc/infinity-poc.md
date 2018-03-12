@@ -37,22 +37,7 @@ Slate Fire **INFINITY** software will reduce man hours and associated costs sign
       -  Business Logic evaluation by INFINITY will identify and reinstall all customization to your Tririga systems during upgrades. Each module can be informed by INFINITY to complete its individual jobs. If INFINITY is not configured to be aware of trending status of modules and process there is no 'Business logic evaluation'.
       -  INFINITY can capture snapshots at the start of the project and multiple times throughout the DevOps cycle and know the QA status over time. 
   
- 2. INFINITY Deployment Benefits:
  
-      -  Enabled new incident response model
-      -  Ops-controlled access and security policy
-      -  90% reduction in MTTR
-      -  50% reduction in escalations
-      -  55% reduction of overall support costs
-
- 3. INFINITY Operations Benefits:
- 
-      -  Scale your labor and reduce costs
-      -  Create standard operating procedures
-      -  Safely delegate operations tasks
-      -  Easy to extend and integrate
-      -  Leverage modern Dev practices
-      -  Improve visibility and governance
 
 
 **IPA**
@@ -99,10 +84,75 @@ Slate Fire **INFINITY** software will reduce man hours and associated costs sign
 
 ### Automated Install
 
- 1. Create a master copy of a sample IBM TRIRIGA installation
-(“Master Copy”) on the Source VM.
+
+**Explain the need**
+You’ve made the decision to bring in a software system to your operations. 
+It’s new information for staff to learn and integrate into their workflow. 
+Explain the rationale behind it such as the expected ROI, the efficiencies predicted
+ to be gained and any other rationale that will help employees understand the need 
+ for the software implementation.
 
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjA4NzQ1NDddfQ==
--->
+
+
+
+
+ 1. INFINITY Deployment Benefits:
+ 
+      -  Enabled new incident response model
+      -  Ops-controlled access and security policy
+      -  90% reduction in MTTR
+      -  50% reduction in escalations
+      -  55% reduction of overall support costs
+
+ 2. INFINITY Operations Benefits:
+ 
+      -  Scale your labor and reduce costs
+      -  Create standard operating procedures
+      -  Safely delegate operations tasks
+      -  Easy to extend and integrate
+      -  Leverage modern Dev practices
+      -  Improve visibility and governance
+
+
+
+
+
+
+
+
+
+**Team roles and responsibilites**
+Establish the team that will be involved in training and rolling out the system. Assign roles and responsibilities and adjust any others that will occur as a result of the new system. Answer any questions team members have and bring them up to speed on any information you learned during the sales process that could be of value to them. Create a software implementation plan with predicted deadlines the company should be aware of.
+
+**Configure the system**
+
+ometimes software systems require adjustments to match your operations. That’s why having team members involved can help work through what needs to occur for the software to work with your operations. Whether it’s an integration with other software systems used in your business or custom feature development, time will need to be allocated to account for any configurations.  At other times, a software system can’t be configured specifically and therefore your business operations may need to be adjusted to match the software tools and the efficiencies they provide.
+
+
+**Change management**
+This will help with coordination and implementation of the team and project: Change can be difficult for many staff. You can read more about how to manage your staff through change in our 8 steps for managing through change in ecommerce blog found here.
+
+**Training**
+
+Most software companies will train the key person who will be handling the system. That person becomes the expert or “Power User” and then trains others in the company as needed. If you prefer to train all staff who would be involved at once, then check with the software provider on what training programs and roll outs they offer. Companies will have training documents available that you can use as reference. If there are some specific instructions that need to be developed for staff who may not use the system frequently, developing any training procedures/documents that are reflective of how you want your operations to run is a good starting point to ensure consistency in usage of the system.
+
+
+**Conduct UAT**
+
+This is an important step to undertake to ensure the software works as intended. It will help find any bugs, (its software, it can happen). That’s why it’s important to test out a small portion of data to see if the software processes all the information correctly. If the system it integrated with other software tools or marketplaces you will want to ensure that the systems are communicating properly.
+
+**Coordinate Cut-over**
+
+When it’s time to begin to move to the new software it’s a good idea to keep existing system’s information with data still available. For a short period you may be running 2 systems depending on how you decided to roll out the new software. It can take 6-12 months for users to feel fully comfortable with system with a new pieces of software and most times the historical information will need to be accessible. Especially if you are selling online and have returns or warranties to account for.
+
+
+
+**Plan for Go-live**
+A good idea is to implement a system during slower periods of the year. When companies don’t have a slow time, then planning ahead to try to account of any bumps will help. Make sure to have the implementation team ready to work with your software provider on the go-live. Check random pieces of data to see that information and data has transitioned and is processing as it should.
+
+**Track efficiencies and measure results**
+With any system you want to measure the before and after effects. You also want to establish what measures will tell you the implementation has been successful. This can include things like the ability to process more orders in a day, reduction in hourly wages paid out for overtime, or others. Continue to track and measure through the year to make sure your investment is paying off. It’s also always nice to see the benefits and be reminded of how far you’ve come and grown your business.
+
+
+
