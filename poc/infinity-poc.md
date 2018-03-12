@@ -242,7 +242,7 @@ This is an important step to undertake to ensure the software works as intended.
 Agreed upon user acceptance testing is important to be informed by the current project teams and respect any existing UHT processes that might be in place. When at all possible into in testing for DataViz flowing analysis in which included integrations this should be done.
 
 
-
+					![enter image description here](https://github.com/jmalmin/slatefire-infinity-docs/blob/master/img/implementation-plan-infinity.png?raw=true)
 
 **Coordinate Cut-over**
 
@@ -259,5 +259,5 @@ With any system you want to measure the before and after effects. You also want 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTg5NzY4NjNdfQ==
+eyJoaXN0b3J5IjpbLTE2ODExMDkxNTFdfQ==
 -->
