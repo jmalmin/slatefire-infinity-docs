@@ -199,22 +199,50 @@ II get an understanding of what acceptance testing wi m  i is importa c coordina
 **Team roles and responsibilites**
 Establish the team that will be involved in training and rolling out the system. Assign roles and responsibilities and adjust any others that will occur as a result of the new system. Answer any questions team members have and bring them up to speed on any information you learned during the sales process that could be of value to them. Create a software implementation plan with predicted deadlines the company should be aware of.
 
+
+
+
+Software. will be installed and team members will be five provided information on configurations in a software implementation plan with project deadlines will be created respect the project teams current timelines
+
+
 **Configure the system**
 
 ometimes software systems require adjustments to match your operations. That’s why having team members involved can help work through what needs to occur for the software to work with your operations. Whether it’s an integration with other software systems used in your business or custom feature development, time will need to be allocated to account for any configurations.  At other times, a software system can’t be configured specifically and therefore your business operations may need to be adjusted to match the software tools and the efficiencies they provide.
 
 
+Configuration of the software Will need to be adjusted in respect to the project teams current needs the documentation the controller projects in other system configurations And operating system configurations can be different depending out with the project team meetings.
+Is important to know that the project teams in the business owners will need to help dictate to the infinity software how to manage their projects while out of the box there can be's guesses and estimates created these can not be a good fit 100% a time for a customer. So it is expected that there will be Communication from the business owner to the infinity installation teams and that there will be additional customizations needed to make the software function better for the individual client.
+
+
+
+
+
 **Change management**
 This will help with coordination and implementation of the team and project: Change can be difficult for many staff. You can read more about how to manage your staff through change in our 8 steps for managing through change in ecommerce blog found here.
+
+Change management that occurs wildly implementation of the software is occurring or during the project should be monitored and visibility to any System changes are operating system changes networking changes legal or other change management should be clear to all parties
+
+
+
+
 
 **Training**
 
 Most software companies will train the key person who will be handling the system. That person becomes the expert or “Power User” and then trains others in the company as needed. If you prefer to train all staff who would be involved at once, then check with the software provider on what training programs and roll outs they offer. Companies will have training documents available that you can use as reference. If there are some specific instructions that need to be developed for staff who may not use the system frequently, developing any training procedures/documents that are reflective of how you want your operations to run is a good starting point to ensure consistency in usage of the system.
 
 
+
+After the initial installation of the system, the business owner and the project teams will be needing either a power user or training for the new system. Training for one or many Candy provided and it should be known that specific project creation in the controller software will be informed by what the current project teams are expecting to do or implement in the coming year.
+To be understood that the infinity software is a project deb ops process that can be informed by the modules and what they are doing on a day-to-day basis, but they need to be agreed upon and configured again due to the projects needs. 
+
 **Conduct UAT**
 
 This is an important step to undertake to ensure the software works as intended. It will help find any bugs, (its software, it can happen). That’s why it’s important to test out a small portion of data to see if the software processes all the information correctly. If the system it integrated with other software tools or marketplaces you will want to ensure that the systems are communicating properly.
+
+Agreed upon user acceptance testing is important to be informed by the current project teams and respect any existing UHT processes that might be in place. When at all possible into in testing for DataViz flowing analysis in which included integrations this should be done.
+
+
+
 
 **Coordinate Cut-over**
 
