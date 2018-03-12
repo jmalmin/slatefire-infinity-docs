@@ -241,10 +241,13 @@ This is an important step to undertake to ensure the software works as intended.
 
 Agreed upon user acceptance testing is important to be informed by the current project teams and respect any existing UHT processes that might be in place. When at all possible into in testing for DataViz flowing analysis in which included integrations this should be done.
 
-![
-](https://github.com/jmalmin/slatefire-infinity-docs/blob/master/img/implementation-plan-infinity.png?raw=true)
+Consider thinking of defining the process for testing during UAT.
 
+img 1.0
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/jmalmin/slatefire-infinity-docs/master/img/implementation-plan-infinity.png">
+</p>
 
 **Coordinate Cut-over**
 
