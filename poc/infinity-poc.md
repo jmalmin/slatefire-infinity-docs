@@ -10,69 +10,38 @@ Restricted Materials of Slate Fire LLC
 INFINITY along with 6 modules created to address
 specific issues related to IWMS and to provide the ability to
 perform DevOps for those same solutions.
+
 This program is a commercial software: you can not redistribute it and/or modify it under
 the terms of the Commercial License as provided at time of sale of this software.
-
-  
-
 Liability: To the extent permitted under Law, The Software is provided under an AS-IS
-
 basis. Licensor shall never, and without any limit, be liable for any damage, cost,
-
 expense or any other payment incurred by Licensee as a result of Software’s actions,
-
 failure, bugs and/or any other interaction between The Software and Licensee’s
-
 end-equipment, computers, other software or any 3rd party, end-equipment, computer or
-
 services. Moreover, Licensor shall never be liable for any defect in source code
-
 written by Licensee when relying on The Software or using The Software’s source code.
-
-  
-
 Indemnification: Licensee hereby warrants to hold Licensor harmless and indemnify
-
 Licensor for any lawsuit brought against it in regards to Licensee’s use of The Software
-
 in means that violate, breach or otherwise circumvent this license, Licensor's
-
 intellectual property rights or Licensor's title in The Software. Licensor shall
-
 promptly notify Licensee in case of such legal action and request Licensee’s consent
-
 prior to any settlement in relation to such lawsuit or claim.
-
-  
-
 Limited Warranty. Slate Fire warrants that for thirty (30) days following the Effective Date,
-
 the Software will perform substantially in accordance with the accompanying Documentation.
-
 Slate Fire’s warranty is conditioned upon: (a) Customer using the Software in accordance
-
 with the Documentation and other instructions provided by Slate Fire; (b) Customer not
-
 altering or modifying the Software, without Slate Fire’s prior written approval; and (c) 
-
 Customer notifying Slate Fire in writing of the claimed nonconformity within the
-
 thirty (30) days from the Effective Date. As Slate Fire’s sole liability and Customer’s
-
 sole remedy with respect to the Software’s non-conformance with the limited warranty
-
 set forth in this Section 6.1, Slate Fire may at its option: (i) use reasonable efforts to
-
 correct the Software to make it conform substantially with the specifications set forth in
-
 the documentation; (ii) replace the Software;
-
 or (iii) require Customer to return the Software to Slate Fire, and refund the subscription
 
 Fee payment by Customer and terminate this Agreement.
 
 THE ABOVE WARRANTY IS ONLY APPLICABLE TO SLATE FIRE’S SOFTWARE WHICH IS PART OF A SUPPORTED
-
 RELEASE AND NOT ANY OTHER VERSIONS (BETA OR OTHERWISE).
 
   
@@ -362,5 +331,5 @@ With any system you want to measure the before and after effects. You also want 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDgyMjMxMl19
+eyJoaXN0b3J5IjpbLTE5MTI2NzU1NTRdfQ==
 -->
