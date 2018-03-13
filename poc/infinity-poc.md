@@ -6,8 +6,6 @@ Licensed Materials - Property of Slate Fire LLC
 
 Restricted Materials of Slate Fire LLC
 
-  
-
 © 2017 Slate Fire LLC All Rights Reserved.
 
   
@@ -373,5 +371,5 @@ With any system you want to measure the before and after effects. You also want 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTk0NjYzOF19
+eyJoaXN0b3J5IjpbMTYzNzEwNzkyNl19
 -->
