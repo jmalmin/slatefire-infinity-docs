@@ -7,9 +7,6 @@ Licensed Materials - Property of Slate Fire LLC
 Restricted Materials of Slate Fire LLC
 
 © 2017 Slate Fire LLC All Rights Reserved.
-
-  
-
 INFINITY along with 6 modules created to address
 
 specific issues related to IWMS and to provide the ability to
@@ -371,5 +368,5 @@ With any system you want to measure the before and after effects. You also want 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNzEwNzkyNl19
+eyJoaXN0b3J5IjpbLTE1Nzc5NDczMTZdfQ==
 -->
