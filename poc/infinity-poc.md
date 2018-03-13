@@ -10,11 +10,7 @@ Restricted Materials of Slate Fire LLC
 INFINITY along with 6 modules created to address
 specific issues related to IWMS and to provide the ability to
 perform DevOps for those same solutions.
-
-  
-
 This program is a commercial software: you can not redistribute it and/or modify it under
-
 the terms of the Commercial License as provided at time of sale of this software.
 
   
@@ -366,5 +362,5 @@ With any system you want to measure the before and after effects. You also want 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzI4MjI1Ml19
+eyJoaXN0b3J5IjpbMTEyMDgyMjMxMl19
 -->
