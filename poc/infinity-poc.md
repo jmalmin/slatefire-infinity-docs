@@ -71,7 +71,7 @@ Slate Fire **INFINITY** software will reduce man hours and associated costs sign
 > “I’ve learned that mistakes can often be as good a teacher as success.”  
 – Jack Welch, chairman and CEO General Electric
 
- The current Tririga installation process is manual and requires multiple teams and many hours to complete each environment. Simplify this process for your teams with IPA. Scheduling object migrations between environments gives project teams the ability to focus on *work in progress*. Creating amazing functionality for the product owners will be the task of your current professional services teams with INFINITY configured and running OPA. Additionally the metrics(Fireball) for all activities related to Tririga are easily understood and reported to all team members using Sapphire reporting.
+ The current Tririga installation process is manual, requires multiple teams, and many hours to complete each environment. Simplify this process for your teams with IPA. Scheduling object migrations between environments gives project teams the ability to focus on *work in progress*. Creating amazing functionality for the product owners will be the task of your current professional services teams with INFINITY configured and running OPA. Additionally the metrics(Fireball) for all activities related to Tririga are easily understood and reported to all team members using Sapphire reporting.
 
  - **IPA** software - Installation team members can redirect focus to projects and support issues in the Tririga system rather than manual installations.
  - **OPA** software - Automated migration of packages from source to destination server(s).
@@ -181,26 +181,27 @@ Explain the rationale behind it such as the expected ROI, the efficiencies predi
 
 **Demo**
 
- let's start with an example deployme o of the infinity syste I In our example we will simula w wi a a master server and two node T The first note will be a windo c Comput t the second will be a Len s Syst w whi i it does not matter  t the master server  o  h hey Windows system or A limit syst o or are examp w we will u c clinics as the master server.
+ Let's start with an example deployment of the infinity system. In our example we will simulate with a master server and two nodes. The first node will be a Windows computer the second will be a Lenox System it does not matter which one. 
 
-HOur deployme p processes are as follows:
+Our deployment processes are as follows:
+
 Plan
- t the first thing that we would do would be to plan what pow a deployment would look li w we would take in consideration production metrics production objects and get feedback fr m meetings with the product owne w what are the desir p process i to be included in our effort
 
- c create
+ The first thing that we would do would be to plan what how a deployment would look like.  We would take in consideration production metrics, production objects, and get feedback from meetings with the product owner on what are the desired processes to be included in our effort.
+
+ Create Software
  
- software
- i in this process we would be generati p packag o or archives to be delivered from the master to the known servers
- c configuration
- c configuration deploymen s steps would be contained here
+ In this process, we would be generate package or archives to be delivered from the master to the known servers.
+ Configuration
+ Configuration deployment steps would be contained here:
 
- c Coding
- c code quality
- q Quality assurance  p possib a and should be included and a p projec a and deliverables
- p performance
- p performan m metri a and securi s should always be considered wh w working on an understanding what to do for a given project
- s software
- b building 
+ Coding
+ Code quality
+ Quality assurance possible and should be included and a project and deliverables
+ Performance
+ Performance metrics and security should always be considered when working on an understanding what to do for a given project
+ software
+ building 
  create the deployment packa a and migrating to the nodes
   Bill performance
  m metrics generat a and captured during t b build process are sure here
