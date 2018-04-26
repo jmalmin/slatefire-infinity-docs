@@ -317,6 +317,7 @@ This directory is typically called rundeck_src. or <env name> in example below.
     cd ~/repo/rundeck_repo/linux/chrome/driver
     sudo su
     yum -y install chromedriver-61.0.3163.100-1.el7.x86_64.rpm
+    #setup chrome options on selenium scripts to include (no-sandbox) if fails on load
     
 **Phantomjs**
 
