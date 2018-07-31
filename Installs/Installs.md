@@ -255,6 +255,10 @@ The Master server will need software installed to support the ability for it to 
 
 	   cd ~/repo/rundeck_repo/linux/pip
 	   yum -y install python35u-pip-9.0.1-1.ius.centos7.noarch.rpm
+	   
+	   or
+	   
+	   yum -y install python-pip
 
 **Virtualenv install**
 
