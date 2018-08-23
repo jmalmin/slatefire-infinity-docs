@@ -167,10 +167,6 @@ The Master server will need software installed to support the ability for it to 
 		
 **Import jobs to rundeck**
 
- - Please find the latest version of Demo jobs for rundeck in the URL
-    provided here. You will import it per the '***Import and archive***' instructions below.		
-		[https://slatefirecom.sharepoint.com/:u:/s/SlateFire/EXmVae2wtuVEneRrsqmeFjcB4XQB5az8cyDOcJM0h6qZQQ?e=XXXX](https://slatefirecom.sharepoint.com/:u:/s/SlateFire/EXmVae2wtuVEneRrsqmeFjcB4XQB5az8cyDOcJM0h6qZQQ?e=XXXX)
-
 
 **Export an archive**
  - To export, visit the "Admin" link in the Rundeck page header.
