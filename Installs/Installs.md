@@ -259,6 +259,12 @@ The Master server will need software installed to support the ability for it to 
 	   or
 	   
 	   yum -y install python-pip
+	   
+	   or
+	   
+	   yum -y install python36u-pip
+	   
+	   
 
 **Virtualenv install**
 
