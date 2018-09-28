@@ -125,6 +125,14 @@ The Master server will need software installed to support the ability for it to 
 		export JAVA_HOME=~/java
 		export PATH=$JAVA_HOME/bin:$PATH
 		export PATH
+		
+		# if openJdk conflict proceed with this step
+		
+		sudo yum localinstall jdk-8xxx-linux-64x.rpm
+		# then run command
+		alternatives --config java
+		
+		# choose the version of java desired for installation of tririga or other applications
 
 **Rundeck**
 
